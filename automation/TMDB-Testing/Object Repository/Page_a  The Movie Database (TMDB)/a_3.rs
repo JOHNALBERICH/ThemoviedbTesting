@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3</name>
+   <tag></tag>
+   <elementGuidId>32e30677-06a5-453e-b491-212adf716feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' tv ')]//*[(name() = 'a') and (position() = 4)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.tv a:nth-child(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>048f1e33-1666-41db-a660-d23673c0e2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/search/tv?query=a&amp;page=3</value>
+      <webElementGuid>d2916f6d-270f-4c71-a4e1-9d32d0d4a5d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>0159c86c-dfaf-45c5-8f2f-2c3c68008e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0eb459695e7e6706e67991b38eabb93e</value>
+      <webElementGuid>9dac3ac8-7c45-4fa1-bfdf-03edae4d4d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' tv ')]//*[(name() = 'a') and (position() = 4)]</value>
+      <webElementGuid>d35fc7c0-823b-4295-97b8-3a8a5238dc11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' tv ')]//*[(name() = 'a') and (position() = 4)]</value>
+      <webElementGuid>e8f03f7d-55db-44ca-8771-85efec6353b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/search/tv?query=a&amp;page=3' and (text() = '3' or . = '3')]</value>
+      <webElementGuid>cb3a3005-09d0-440a-a7be-5f3f8aef18ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

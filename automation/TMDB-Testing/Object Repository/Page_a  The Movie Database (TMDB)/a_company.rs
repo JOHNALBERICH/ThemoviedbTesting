@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_button</name>
+   <name>a_company</name>
    <tag></tag>
-   <elementGuidId>233a676e-af17-4319-8af2-d89507e05e0e</elementGuidId>
+   <elementGuidId>b84c9139-e2a7-46d1-ad5f-76c534b9b17c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@value = 'Search']</value>
+         <value>//*[@id = 'company']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[value=&quot;Search&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <value>#company</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,95 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3b0f00f8-9944-434b-9132-d0475201a763</webElementGuid>
+      <value>a</value>
+      <webElementGuid>ad9bc86d-dffb-418b-bff0-df8d17dc879d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>38805089-08e7-45de-8bea-422104ba646a</webElementGuid>
+      <value>company</value>
+      <webElementGuid>4ae3ec8b-462d-4043-a9c4-de45b1317b81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>910a3814-0848-4f96-9bf4-0070b738cf8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>af7a56a7-b039-4f00-bc52-3f2996930bb7</webElementGuid>
+      <value>/search/company?query=a</value>
+      <webElementGuid>1793335e-8539-4de6-b775-46d2391609eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
-      <webElementGuid>ab6e9ccc-c877-44c0-b83e-4e0ace1ad95a</webElementGuid>
+      <value>search_tab</value>
+      <webElementGuid>a9e38f7f-6fa1-4ab2-8259-7adc5609a1bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>title</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3b7261ba-5822-4d9c-b3b6-a391c32172bb</webElementGuid>
+      <value>Companies</value>
+      <webElementGuid>8bc3eef4-99b7-4787-8e30-2a6f47a97a3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>a2c932ad-0d7f-4ee2-bdb5-1c18f7db6a78</webElementGuid>
+      <value>Companies</value>
+      <webElementGuid>bc14c194-145f-4fa4-9d24-490d645c289f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>6f389ea5-a941-4bc1-ae36-494a00222dd4</webElementGuid>
+      <value>Companies</value>
+      <webElementGuid>d5f1e851-0341-4244-a223-033c8aeb3796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b78435e072d6af521426a27fdd0cdf6d</value>
-      <webElementGuid>52bc4508-8578-4ce6-8747-092b30596ee9</webElementGuid>
+      <value>md5.v1-ba70455240bb7c4043fa299f4a356c39</value>
+      <webElementGuid>6b5d8a1a-822a-4786-8611-ccc1f7cca66a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>1ccac5b9-4429-440e-b7bf-e07bd17eb7f9</webElementGuid>
+      <value>//*[@id = 'company']</value>
+      <webElementGuid>2effe88b-35e9-4fe7-9b0b-04fe148cb813</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>af7d7c72-07fe-4fe7-816e-190101312522</webElementGuid>
+      <value>//*[@id = 'company']</value>
+      <webElementGuid>d6dcc3c6-f8ac-4717-8733-d829d5d3c7d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>c689a893-8cca-4249-8b3e-3c15e2f18676</webElementGuid>
+      <value>//a[@id = 'company' and @href = '/search/company?query=a' and @title = 'Companies' and @alt = 'Companies' and (text() = 'Companies' or . = 'Companies')]</value>
+      <webElementGuid>9c5da3df-5544-424a-bcc9-f926506fa902</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_button</name>
+   <name>a_movie</name>
    <tag></tag>
-   <elementGuidId>233a676e-af17-4319-8af2-d89507e05e0e</elementGuidId>
+   <elementGuidId>99c86ee0-3141-432b-bbb1-d2960d4ad269</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@value = 'Search']</value>
+         <value>//*[@id = 'movie']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[value=&quot;Search&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <value>#movie</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,95 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3b0f00f8-9944-434b-9132-d0475201a763</webElementGuid>
+      <value>a</value>
+      <webElementGuid>802ea449-4e93-40c2-a983-18e12f327e6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>38805089-08e7-45de-8bea-422104ba646a</webElementGuid>
+      <value>movie</value>
+      <webElementGuid>cf147cb5-e279-4915-802c-5c6b99b0d08b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>910a3814-0848-4f96-9bf4-0070b738cf8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>af7a56a7-b039-4f00-bc52-3f2996930bb7</webElementGuid>
+      <value>/search/movie?query=2026</value>
+      <webElementGuid>dc205c24-e10e-4a39-bf37-ab997150845c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
-      <webElementGuid>ab6e9ccc-c877-44c0-b83e-4e0ace1ad95a</webElementGuid>
+      <value>search_tab </value>
+      <webElementGuid>34d1b77f-de17-4a14-b3e1-946d61f28b92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>title</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3b7261ba-5822-4d9c-b3b6-a391c32172bb</webElementGuid>
+      <value>Movies</value>
+      <webElementGuid>b22afd4e-81bd-4955-a0d3-ed554fb507e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>a2c932ad-0d7f-4ee2-bdb5-1c18f7db6a78</webElementGuid>
+      <value>Movies</value>
+      <webElementGuid>c914fe99-6605-4bf0-9a0f-58fcd388c29e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>6f389ea5-a941-4bc1-ae36-494a00222dd4</webElementGuid>
+      <value>Movies</value>
+      <webElementGuid>7c0daefd-3c68-47a8-b58d-786330a871c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b78435e072d6af521426a27fdd0cdf6d</value>
-      <webElementGuid>52bc4508-8578-4ce6-8747-092b30596ee9</webElementGuid>
+      <value>md5.v1-de6f3b612e957c67bd0175964a478d2d</value>
+      <webElementGuid>cf799b22-fdeb-437e-90f8-b3c56eb2e9b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>1ccac5b9-4429-440e-b7bf-e07bd17eb7f9</webElementGuid>
+      <value>//*[@id = 'movie']</value>
+      <webElementGuid>e7261576-1678-4579-81d2-edc0db7e284a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>af7d7c72-07fe-4fe7-816e-190101312522</webElementGuid>
+      <value>//*[@id = 'movie']</value>
+      <webElementGuid>c0af0374-c03a-4fcd-b70b-df6601a9fa5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>c689a893-8cca-4249-8b3e-3c15e2f18676</webElementGuid>
+      <value>//a[@id = 'movie' and @href = '/search/movie?query=2026' and @title = 'Movies' and @alt = 'Movies' and (text() = 'Movies' or . = 'Movies')]</value>
+      <webElementGuid>9adbf54a-8a8d-4b80-bcfa-83db01ef56c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
