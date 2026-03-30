@@ -60,7 +60,7 @@ automation/katalon-project/
 ### Bước 1: Mở Record
 1. Trên thanh công cụ → click **Record Web** (biểu tượng tròn đỏ)
 2. Nhập URL: `https://www.themoviedb.org/`
-3. Chọn browser: **Chrome**
+3. Chọn browser: **Chrome/Edge/Firefox/...**
 4. Click **Record** → trình duyệt tự mở
 
 ### Bước 2: Thực hiện thao tác
@@ -77,7 +77,7 @@ automation/katalon-project/
 
 ### Ví dụ record cho từng loại test case
 
-**TC-01: Search valid movie**
+**TC01: Search valid movie**
 ```
 1. Truy cập https://www.themoviedb.org/
 2. Click vào thanh search
@@ -86,7 +86,7 @@ automation/katalon-project/
 5. Quan sát kết quả → Stop
 ```
 
-**TC-03: Search empty input**
+**TC03: Search empty input**
 ```
 1. Truy cập https://www.themoviedb.org/
 2. Click vào thanh search
@@ -95,7 +95,7 @@ automation/katalon-project/
 5. Quan sát kết quả → Stop
 ```
 
-**TC-05: Search special characters**
+**TC05: Search special characters**
 ```
 1. Truy cập https://www.themoviedb.org/
 2. Click vào thanh search
@@ -182,6 +182,6 @@ Sau khi tất cả thành viên push xong:
 
 - Luôn **git pull** trước khi mở Katalon để tránh conflict
 - Chỉ làm việc trong **folder scenario của mình**
-- Sau khi record xong → **git push** ngay để người khác pull về được
-- Nếu Katalon báo lỗi không chạy được → thử đổi browser sang **Firefox**
+- Sau khi record xong toàn bộ → **git push** ngay để người khác pull về được
+- Nếu Katalon báo lỗi không chạy được → thử đổi browser sang trình duyệt khác 
 - Report HTML/PDF sau khi export phải **upload lên GitHub** trước khi nộp bài
