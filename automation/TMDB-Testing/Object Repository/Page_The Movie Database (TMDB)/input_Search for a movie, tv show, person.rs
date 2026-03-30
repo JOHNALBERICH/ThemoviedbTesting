@@ -6,16 +6,16 @@
    <elementGuidId>0ba05fb0-2a58-4993-9bd2-b2a7088b2cfe</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@placeholder = 'Search for a movie, tv show, person......']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>[placeholder=&quot;Search\ for\ a\ movie\,\ tv\ show\,\ person\.\.\.\.\.\.&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@id = 'inner_search_v4' and @name = 'query' and @type = 'text' and @placeholder = 'Search for a movie, tv show, person......']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@placeholder = 'Search for a movie, tv show, person......']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8ca10a3f-d148-4610-bc78-f4ac31bf099e</webElementGuid>
+      <webElementGuid>fef9a016-da71-4cf6-8709-4a95408525a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>75d780d7-9695-406d-911d-8c1e738996e4</webElementGuid>
+      <webElementGuid>5d2de5bc-ea84-4a35-8050-9acf4d2448b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inner_search_v4</value>
-      <webElementGuid>e6cb3fc0-3abc-4a6e-ac3a-6be11ecea973</webElementGuid>
+      <webElementGuid>8cd492eb-effe-4ef8-81a4-7a82b610d52f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>query</value>
-      <webElementGuid>7c1e7fe0-4e48-4685-ae98-5730fdc1ea97</webElementGuid>
+      <webElementGuid>319baa86-8b48-45ca-a30f-d9a337c2ef90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c027be0a-4e9c-48a5-9302-02a0419d9213</webElementGuid>
+      <webElementGuid>bfe1fb08-1b4a-481e-a0ef-5648da6f9b97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>579e2f38-7910-44ee-8fcb-0f4ef4263a11</webElementGuid>
+      <webElementGuid>56eb0d27-05f5-4c92-807c-9a076967c0d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>autofill</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>73e12f2f-8e5b-4ef4-921e-4065ca256471</webElementGuid>
+      <webElementGuid>3b13547e-c370-4521-9372-5d944330a4e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>54a5ea25-98e6-41db-80b6-3d50ca6b46a9</webElementGuid>
+      <webElementGuid>63a6a748-06be-48c4-9c6a-398b11975477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4104ff12-3d7e-4171-8378-1b9407665c58</webElementGuid>
+      <webElementGuid>296c7d66-978e-4a90-91d7-4fb50c4b6e64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -105,7 +105,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search for a movie, tv show, person......</value>
-      <webElementGuid>19b7db98-1ed3-404c-83cc-a33713b416bb</webElementGuid>
+      <webElementGuid>8b7978fb-cdfc-45d8-bb30-4755e3d44e49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>d472e082-2633-447d-87d8-d4daa1a92d0c</webElementGuid>
+      <webElementGuid>f006b917-dfac-452e-ae04-5f62f41155fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5a6d2830-fdf6-40de-8a75-8fbeeaf3d49e</webElementGuid>
+      <webElementGuid>b40bc9a1-4b21-444d-b703-62e49834f1ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input-inner</value>
-      <webElementGuid>8a5ed6d3-3d28-4c5f-9b6f-056fc88d2970</webElementGuid>
+      <webElementGuid>e98e5ea5-b18c-4456-8a7b-38a1ed19c918</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0ca98d6c-c365-4afa-b245-0694991b7233</webElementGuid>
+      <webElementGuid>ff9115c0-8a9f-402b-bb90-4638e9a12ed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-9ace338f8694e3966847992ce9b35e5e</value>
-      <webElementGuid>9a764dc5-9fff-44c2-a0ca-fc984e764193</webElementGuid>
+      <webElementGuid>f20d4cd2-41f7-4e77-897c-abdc43f8531c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -153,7 +153,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@placeholder = 'Search for a movie, tv show, person......']</value>
-      <webElementGuid>8aab47d9-e3ef-4bb2-854a-7c0e1f424f9a</webElementGuid>
+      <webElementGuid>f8a77015-5f07-47a5-be21-1e94df574d87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -161,7 +161,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@placeholder = 'Search for a movie, tv show, person......']</value>
-      <webElementGuid>245e199b-8a91-4692-96d3-39fcddf4f30c</webElementGuid>
+      <webElementGuid>461fe3ad-6983-4e00-abaa-445e524ba472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -169,6 +169,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'inner_search_v4' and @name = 'query' and @type = 'text' and @placeholder = 'Search for a movie, tv show, person......']</value>
-      <webElementGuid>adb83b48-fb5d-468d-83db-c5888e0ef8a9</webElementGuid>
+      <webElementGuid>89ce50a4-1c2e-401f-9073-24e3590d41ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
