@@ -1,1 +1,13 @@
-/bin/
+# Katalon temp files
+Libs/TempTestCase*.groovy
+
+# Katalon local settings
+settings/external/
+settings/internal/
+settings/web-recorder/
+
+# Katalon build & reports
+bin/
+build/
+.gradle/
+Reports/
