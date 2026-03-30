@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - Search for TV Shows via search bar</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bbd4e53-83bf-409e-b7b9-3c269aaa7cbe</testCaseGuid>
+</TestCaseEntity>
