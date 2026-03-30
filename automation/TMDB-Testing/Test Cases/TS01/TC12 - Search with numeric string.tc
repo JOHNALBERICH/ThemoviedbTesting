@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - Search with numeric string</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb2f05e6-30ec-4ec6-920a-34a7e68f2c20</testCaseGuid>
+</TestCaseEntity>

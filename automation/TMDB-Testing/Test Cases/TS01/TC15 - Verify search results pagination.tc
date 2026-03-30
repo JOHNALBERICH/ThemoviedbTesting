@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15 - Verify search results pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d146ab56-28f0-4d9c-a1d3-e5fb74944cf7</testCaseGuid>
+</TestCaseEntity>

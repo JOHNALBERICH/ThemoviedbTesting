@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_button</name>
+   <name>a_movie</name>
    <tag></tag>
-   <elementGuidId>233a676e-af17-4319-8af2-d89507e05e0e</elementGuidId>
+   <elementGuidId>bde01a48-1dc2-44b2-a9e4-6ae283e9426b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@value = 'Search']</value>
+         <value>//*[@id = 'movie']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[value=&quot;Search&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <value>#movie</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,95 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3b0f00f8-9944-434b-9132-d0475201a763</webElementGuid>
+      <value>a</value>
+      <webElementGuid>7b2cced0-e6e6-4269-b1a1-209a4d1e39d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>38805089-08e7-45de-8bea-422104ba646a</webElementGuid>
+      <value>movie</value>
+      <webElementGuid>b7dd4a73-a7ba-42c8-b92a-deee85aebeb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>910a3814-0848-4f96-9bf4-0070b738cf8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>af7a56a7-b039-4f00-bc52-3f2996930bb7</webElementGuid>
+      <value>/search/movie?query=a</value>
+      <webElementGuid>97e862b9-e102-4dbb-87d8-c691344e6def</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
-      <webElementGuid>ab6e9ccc-c877-44c0-b83e-4e0ace1ad95a</webElementGuid>
+      <value>search_tab </value>
+      <webElementGuid>6efbf63b-5298-44f5-ab5d-414735188785</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>title</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3b7261ba-5822-4d9c-b3b6-a391c32172bb</webElementGuid>
+      <value>Movies</value>
+      <webElementGuid>2a8458e5-9f8b-4064-a61a-63317dd9e4b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>a2c932ad-0d7f-4ee2-bdb5-1c18f7db6a78</webElementGuid>
+      <value>Movies</value>
+      <webElementGuid>07ee33a0-975c-485d-bff3-ad6b00bef00c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>6f389ea5-a941-4bc1-ae36-494a00222dd4</webElementGuid>
+      <value>Movies</value>
+      <webElementGuid>e82cd9f8-2961-4308-bc57-51713050474e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b78435e072d6af521426a27fdd0cdf6d</value>
-      <webElementGuid>52bc4508-8578-4ce6-8747-092b30596ee9</webElementGuid>
+      <value>md5.v1-de6f3b612e957c67bd0175964a478d2d</value>
+      <webElementGuid>5f968961-27f7-42bf-85ca-fbc74f37e50c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>1ccac5b9-4429-440e-b7bf-e07bd17eb7f9</webElementGuid>
+      <value>//*[@id = 'movie']</value>
+      <webElementGuid>6299e5dc-562a-49f4-abd5-50bdf1c2f433</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>af7d7c72-07fe-4fe7-816e-190101312522</webElementGuid>
+      <value>//*[@id = 'movie']</value>
+      <webElementGuid>9198e735-f690-48a0-9c82-1b1ed406b565</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>c689a893-8cca-4249-8b3e-3c15e2f18676</webElementGuid>
+      <value>//a[@id = 'movie' and @href = '/search/movie?query=a' and @title = 'Movies' and @alt = 'Movies' and (text() = 'Movies' or . = 'Movies')]</value>
+      <webElementGuid>bcfc4d65-ac19-490b-9937-8a0a1d2a2f15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

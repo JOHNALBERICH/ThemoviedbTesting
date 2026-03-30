@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_button</name>
+   <name>a_person</name>
    <tag></tag>
-   <elementGuidId>233a676e-af17-4319-8af2-d89507e05e0e</elementGuidId>
+   <elementGuidId>af65729f-24f1-4315-a63e-55fd27359f05</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@value = 'Search']</value>
+         <value>//*[@id = 'person']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[value=&quot;Search&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <value>#person</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,95 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3b0f00f8-9944-434b-9132-d0475201a763</webElementGuid>
+      <value>a</value>
+      <webElementGuid>55f5ca4e-8e8c-4e52-8f27-35d36ad015da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>38805089-08e7-45de-8bea-422104ba646a</webElementGuid>
+      <value>person</value>
+      <webElementGuid>22268d40-75f4-4836-9b04-6eb0922583db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>910a3814-0848-4f96-9bf4-0070b738cf8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>af7a56a7-b039-4f00-bc52-3f2996930bb7</webElementGuid>
+      <value>/search/person?query=a</value>
+      <webElementGuid>1d4ceecf-73f6-45cc-905b-b0ca1693d2e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
-      <webElementGuid>ab6e9ccc-c877-44c0-b83e-4e0ace1ad95a</webElementGuid>
+      <value>search_tab </value>
+      <webElementGuid>8ecee703-8eaa-4539-9a5c-6a364b12d700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>title</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3b7261ba-5822-4d9c-b3b6-a391c32172bb</webElementGuid>
+      <value>People</value>
+      <webElementGuid>3bb42535-46b9-4322-bbbf-cf99c4739b15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>a2c932ad-0d7f-4ee2-bdb5-1c18f7db6a78</webElementGuid>
+      <value>People</value>
+      <webElementGuid>fca31056-d8b3-47f0-8a99-6e2deafeeed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>6f389ea5-a941-4bc1-ae36-494a00222dd4</webElementGuid>
+      <value>People</value>
+      <webElementGuid>6270b828-c388-41fe-962a-72701457835b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b78435e072d6af521426a27fdd0cdf6d</value>
-      <webElementGuid>52bc4508-8578-4ce6-8747-092b30596ee9</webElementGuid>
+      <value>md5.v1-bc27d8285f1caa96bbec7c528e4e8099</value>
+      <webElementGuid>9a11f6ff-34a9-405a-9a0b-df3e80f9a916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>1ccac5b9-4429-440e-b7bf-e07bd17eb7f9</webElementGuid>
+      <value>//*[@id = 'person']</value>
+      <webElementGuid>6f4abd16-9cdf-4f40-941d-d4fc08a46465</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>af7d7c72-07fe-4fe7-816e-190101312522</webElementGuid>
+      <value>//*[@id = 'person']</value>
+      <webElementGuid>0133348a-bf5a-42e6-839c-27b80bf9e7f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>c689a893-8cca-4249-8b3e-3c15e2f18676</webElementGuid>
+      <value>//a[@id = 'person' and @href = '/search/person?query=a' and @title = 'People' and @alt = 'People' and (text() = 'People' or . = 'People')]</value>
+      <webElementGuid>e255e2f8-6f63-43c8-be51-9fef0002ba5f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

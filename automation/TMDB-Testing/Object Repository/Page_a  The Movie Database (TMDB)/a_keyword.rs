@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_button</name>
+   <name>a_keyword</name>
    <tag></tag>
-   <elementGuidId>233a676e-af17-4319-8af2-d89507e05e0e</elementGuidId>
+   <elementGuidId>9c77e07a-c0b2-4492-8295-4cef1cf99556</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@value = 'Search']</value>
+         <value>//*[@id = 'keyword']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[value=&quot;Search&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit']</value>
+         <value>#keyword</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,95 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>3b0f00f8-9944-434b-9132-d0475201a763</webElementGuid>
+      <value>a</value>
+      <webElementGuid>b93f738c-9768-4f58-a36f-7a56ef792ff0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>38805089-08e7-45de-8bea-422104ba646a</webElementGuid>
+      <value>keyword</value>
+      <webElementGuid>ea5df2f7-9fbb-4953-ba50-d39b10b08f4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>910a3814-0848-4f96-9bf4-0070b738cf8f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-role</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>af7a56a7-b039-4f00-bc52-3f2996930bb7</webElementGuid>
+      <value>/search/keyword?query=a</value>
+      <webElementGuid>f514d87e-b5ee-479e-8490-631f612f2934</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
-      <webElementGuid>ab6e9ccc-c877-44c0-b83e-4e0ace1ad95a</webElementGuid>
+      <value>search_tab</value>
+      <webElementGuid>4cf957fd-e072-4f51-8609-25509774ea60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>title</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>3b7261ba-5822-4d9c-b3b6-a391c32172bb</webElementGuid>
+      <value>Keywords</value>
+      <webElementGuid>2d12d247-ea5c-4a02-9ee6-9df19b43bbc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>a2c932ad-0d7f-4ee2-bdb5-1c18f7db6a78</webElementGuid>
+      <value>Keywords</value>
+      <webElementGuid>c268841d-ec4f-45cf-86c2-7c4bc5418857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>text</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>6f389ea5-a941-4bc1-ae36-494a00222dd4</webElementGuid>
+      <value>Keywords</value>
+      <webElementGuid>45f56f30-0594-4fc8-9139-afa765cf8a20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b78435e072d6af521426a27fdd0cdf6d</value>
-      <webElementGuid>52bc4508-8578-4ce6-8747-092b30596ee9</webElementGuid>
+      <value>md5.v1-45b4b8072626ed5be946639def399f86</value>
+      <webElementGuid>b5794bd8-1222-492c-9eb3-ee12aa00431f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>1ccac5b9-4429-440e-b7bf-e07bd17eb7f9</webElementGuid>
+      <value>//*[@id = 'keyword']</value>
+      <webElementGuid>e9e7457d-05a4-4ab8-9637-458d295c3468</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@value = 'Search']</value>
-      <webElementGuid>af7d7c72-07fe-4fe7-816e-190101312522</webElementGuid>
+      <value>//*[@id = 'keyword']</value>
+      <webElementGuid>43a8ee62-7da1-48a9-82fa-cd178db93fa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>c689a893-8cca-4249-8b3e-3c15e2f18676</webElementGuid>
+      <value>//a[@id = 'keyword' and @href = '/search/keyword?query=a' and @title = 'Keywords' and @alt = 'Keywords' and (text() = 'Keywords' or . = 'Keywords')]</value>
+      <webElementGuid>efe91545-f99d-4de0-bd93-e3a9e4ee99eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
