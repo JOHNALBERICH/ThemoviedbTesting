@@ -55,17 +55,6 @@ automation/katalon-project/
 
 ---
 
-## Phân công folder
-
-| Thành viên | Folder |
-|-----------|--------|
-| Member 1 | `Test Cases/TS-01-Search/` |
-| Member 2 | `Test Cases/TS-03-MovieDetail/` |
-| Member 3 | `Test Cases/TS-05-Watchlist/` |
-| Member 4 | `Test Cases/TS-07-API/` |
-
----
-
 ## Cách Record Test Case
 
 ### Bước 1: Mở Record
