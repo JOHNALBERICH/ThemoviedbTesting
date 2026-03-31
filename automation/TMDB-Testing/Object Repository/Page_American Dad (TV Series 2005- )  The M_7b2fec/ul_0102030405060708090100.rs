@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_0102030405060708090100</name>
+   <tag></tag>
+   <elementGuidId>b0e47d20-6f3c-4136-886e-c3a04ff8d83c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-reset ') and contains(concat(' ', normalize-space(@class), ' '), ' k-slider-items ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.k-reset.k-slider-items</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>c9981ec0-8746-4c20-b914-697816923116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-reset k-slider-items</value>
+      <webElementGuid>ea310571-ff40-43cf-ae80-fe6e953b9950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>f08d2152-5ae6-4ee3-af35-714c78b4e09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0102030405060708090100</value>
+      <webElementGuid>8f37c400-88cf-446b-845d-bbf969dbab71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-60ebc12465178758e87790a5e09e47d4</value>
+      <webElementGuid>0466a270-6b43-4aaa-8b5b-96ab4da0e57e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-reset ') and contains(concat(' ', normalize-space(@class), ' '), ' k-slider-items ')]</value>
+      <webElementGuid>0dabd944-14b6-404c-9f9b-a2d8fc85c091</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-reset ') and contains(concat(' ', normalize-space(@class), ' '), ' k-slider-items ')]</value>
+      <webElementGuid>edb280ae-3633-415d-a82f-3ac49bf33122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '0102030405060708090100' or . = '0102030405060708090100')]</value>
+      <webElementGuid>e8a266cd-3e45-48ad-8942-66a8177f479a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

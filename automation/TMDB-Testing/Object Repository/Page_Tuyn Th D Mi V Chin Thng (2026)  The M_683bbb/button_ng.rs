@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ng</name>
+   <tag></tag>
+   <elementGuidId>86828c54-ef95-42a9-a910-bc7360c62aa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'onetrust-close-btn-container']//*[@aria-label = 'Đóng']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-close-btn-container [aria-label=&quot;Đóng&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1f8bff1-d96b-4a98-86cd-6ed78d23fe24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon</value>
+      <webElementGuid>fe12e8a9-4a87-40f3-91f0-3b5975fe6159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Đóng</value>
+      <webElementGuid>ca314416-706f-44b4-9409-a37590893119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2777bd8068558dec8cc90f0f8464e2c6</value>
+      <webElementGuid>bd986e3b-4dc9-480a-af25-a1d06211ce9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'onetrust-close-btn-container']//*[@aria-label = 'Đóng']</value>
+      <webElementGuid>e36ce030-c604-408e-9524-89a496f935f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'onetrust-close-btn-container']//*[@aria-label = 'Đóng']</value>
+      <webElementGuid>073469ba-b63e-4104-95b4-e0f9a9ec8998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

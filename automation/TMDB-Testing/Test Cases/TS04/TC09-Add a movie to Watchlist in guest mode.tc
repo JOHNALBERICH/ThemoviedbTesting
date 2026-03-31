@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09-Add a movie to Watchlist in guest mode</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5414b6a5-1ee3-4e9a-a14e-e54d178f00c1</testCaseGuid>
+</TestCaseEntity>

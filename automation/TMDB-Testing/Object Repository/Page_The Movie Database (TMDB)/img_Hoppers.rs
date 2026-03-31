@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hoppers</name>
+   <tag></tag>
+   <elementGuidId>c0e7226c-1d3e-4c4c-a629-988f8a3bebc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@alt = 'Hoppers']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[alt=&quot;Hoppers&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>665a99e9-f819-4e34-9dcc-4cad386f5798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>bda54a81-f069-4d38-b65e-2c0e12e36578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>poster w-full</value>
+      <webElementGuid>6ea567b9-7e47-460c-a87b-2f744243d9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg</value>
+      <webElementGuid>cd3eae34-831f-4ac3-a19d-252a91f3510c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg 1x, https://media.themoviedb.org/t/p/w440_and_h660_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg 2x</value>
+      <webElementGuid>9b3e5e85-44f1-43ef-82d5-358385746f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hoppers</value>
+      <webElementGuid>81645520-e6af-4d9b-8989-89d89edf8cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a00dffa3a779ed3f34076de285594e69</value>
+      <webElementGuid>2b547281-160a-4c6a-ae90-bc25fec3d711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Hoppers']</value>
+      <webElementGuid>a6027e44-85dd-4a94-9086-dd6bff8e5a2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@alt = 'Hoppers']</value>
+      <webElementGuid>3fe75228-fd7e-48ba-bf1e-60ae196b6c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg' and @alt = 'Hoppers']</value>
+      <webElementGuid>d6b1d168-6ff3-411d-99e5-dc03f619743b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

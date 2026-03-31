@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rating saved successfully</name>
+   <tag></tag>
+   <elementGuidId>cec3bab9-d3af-433f-b426-2baba15435a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span//p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>85180f76-7459-4f74-8a05-7e4d3929689c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rating saved successfully.</value>
+      <webElementGuid>65f77db4-217c-46cd-a11b-cf3240bc6411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-94c18c3d8277b1fb1d1428494757775b</value>
+      <webElementGuid>7d642976-f948-4791-b40c-77f0695a6364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span//p</value>
+      <webElementGuid>63f27148-b243-4059-b515-6e5d19d9742a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span//p</value>
+      <webElementGuid>c09d9c86-aa24-4a58-aa5d-09d4d3d7ae92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rating saved successfully.' or . = 'Rating saved successfully.')]</value>
+      <webElementGuid>50742137-66ee-4c83-85da-e98b64845110</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

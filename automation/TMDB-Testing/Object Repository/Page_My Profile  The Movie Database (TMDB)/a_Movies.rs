@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Movies</name>
+   <tag></tag>
+   <elementGuidId>5b56fed8-c54d-4813-a981-e9bacecb71f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/u/Alver_John/favorites']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/u\/Alver_John\/favorites&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/u/Alver_John/favorites' and (text() = 'Movies' or . = 'Movies')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d516b534-012f-4ac4-88cb-d0ed9a834539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/u/Alver_John/favorites</value>
+      <webElementGuid>5cc025a0-03ac-4458-9984-7b1b0d8884e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-link k-menu-link</value>
+      <webElementGuid>14a51ab1-955c-46dc-9aa8-8470063eebac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movies</value>
+      <webElementGuid>083b12a3-d71c-4faf-8c3d-3e4b322be7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fe625d27cf153afcfd22d81c61ccb455</value>
+      <webElementGuid>492c7d0b-1959-4866-9b92-0901f6991f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/u/Alver_John/favorites']</value>
+      <webElementGuid>bcec20fc-2c19-4079-8842-240c8e0b5eda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/u/Alver_John/favorites']</value>
+      <webElementGuid>3ffb6826-1891-40ad-b45a-924650418a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/u/Alver_John/favorites' and (text() = 'Movies' or . = 'Movies')]</value>
+      <webElementGuid>888b958a-ea6e-43c9-bf37-8e7b628f576b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-link ') and (@href = '/u/Alver_John/watchlist')]</value>
+      <webElementGuid>af7573b5-ef54-4347-8b0e-57c1740ca1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/u/Alver_John/watchlist' and (text() = 'Movies' or . = 'Movies')]</value>
+      <webElementGuid>c61cfed9-da60-486e-8968-aa3ba1d261e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

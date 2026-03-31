@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Watchlist</name>
+   <tag></tag>
+   <elementGuidId>bacec240-47b8-46dd-98e1-03d66cbc46a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-tooltip-content ')]//*[@title = 'Watchlist']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.k-tooltip-content [title=&quot;Watchlist&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/u/Alver_John/watchlist' and @title = 'Watchlist' and (text() = 'Watchlist' or . = 'Watchlist')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc0106df-9bdf-4d97-ab90-7db3db8d2a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/u/Alver_John/watchlist</value>
+      <webElementGuid>0e8e158c-62ac-41d5-a2eb-48a936063dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Watchlist</value>
+      <webElementGuid>5aea945c-fcb9-4909-b1d8-3d8737c3e1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watchlist</value>
+      <webElementGuid>4e2793cb-96fd-42b9-9482-7d3c31bc7aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-500657364aab009729c73aea8fa321fa</value>
+      <webElementGuid>9d3bdbe0-3f12-4154-96cf-013bbbe3b5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-tooltip-content ')]//*[@title = 'Watchlist']</value>
+      <webElementGuid>bfb214ef-d305-4624-8257-4ce5fc6fa84b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-tooltip-content ')]//*[@title = 'Watchlist']</value>
+      <webElementGuid>824bd9f9-526e-4645-8057-98aae4cfcd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/u/Alver_John/watchlist' and @title = 'Watchlist' and (text() = 'Watchlist' or . = 'Watchlist')]</value>
+      <webElementGuid>ae7e3442-4d0e-4ad7-9466-7e8aa4266012</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

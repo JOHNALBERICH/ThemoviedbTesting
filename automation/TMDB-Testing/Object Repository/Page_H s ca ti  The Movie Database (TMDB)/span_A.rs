@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_A</name>
+   <tag></tag>
+   <elementGuidId>ee71e009-6f7c-4a4a-be21-5c4e5df6033c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' avatar ') and contains(concat(' ', normalize-space(@class), ' '), ' teal ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.avatar.teal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d17de1c-e9dc-4981-b098-a8e78d34572b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>avatar background_color teal</value>
+      <webElementGuid>3c59c72b-292a-4a70-84ec-80d76b308c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A</value>
+      <webElementGuid>d5920ce6-a7ac-46fb-82b5-0e6926a3bc84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6af838e1acddcef20306bbc4dde65a69</value>
+      <webElementGuid>b2f3c2ef-8f68-4341-8322-1993f9b606ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' avatar ') and contains(concat(' ', normalize-space(@class), ' '), ' teal ')]</value>
+      <webElementGuid>7db80fdd-3327-4140-b8ac-1cc76f73ccf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' avatar ') and contains(concat(' ', normalize-space(@class), ' '), ' teal ')]</value>
+      <webElementGuid>6cbd1f3d-031a-4b31-8866-6a94bed6d3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'A' or . = 'A')]</value>
+      <webElementGuid>7434e4cf-d039-4473-93d8-5999e7dc24a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

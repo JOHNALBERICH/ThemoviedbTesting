@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_watchlist</name>
+   <tag></tag>
+   <elementGuidId>da93b549-a9e0-4300-9e26-661b9cf38a18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'watchlist']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#watchlist</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'watchlist' and @href = '#']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a05802db-6cc2-4384-a909-fcdea3dd58d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>watchlist</value>
+      <webElementGuid>ed2d502c-39af-438e-89b6-6ca9705c6f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no_click add_to_account_list watchlist</value>
+      <webElementGuid>01515fd2-87ac-4984-a1ef-c5297259f166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>519ab771-d1e0-4379-80f2-0ad8f3b73ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-583bb7bca0d630ac3340fd9490a277b4</value>
+      <webElementGuid>b3d1bb31-868e-489e-bc26-6e0336ab378b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'watchlist']</value>
+      <webElementGuid>554c441f-b537-4483-9463-fdcc1ee60bac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'watchlist']</value>
+      <webElementGuid>4291fd54-768e-40a4-aa26-603c1b0132c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'watchlist' and @href = '#']</value>
+      <webElementGuid>d3138bd9-c71c-4fe8-9c75-ab71897e3a5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

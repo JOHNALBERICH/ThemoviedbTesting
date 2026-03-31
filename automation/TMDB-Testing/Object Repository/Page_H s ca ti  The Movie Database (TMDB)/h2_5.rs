@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_5</name>
+   <tag></tag>
+   <elementGuidId>860a4f07-b37c-482e-9e0a-e6c8bebea14f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' stat_block ') and (position() = 2)]//h2[@class and contains(concat(' ', normalize-space(@class), ' '), ' color ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.stat_block:nth-child(2) h2.color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>667ced04-8aa0-4b5a-a973-507925e06e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>color teal</value>
+      <webElementGuid>27b14fdc-2ba9-4ddd-bcd2-92a69e553fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>7dc5731e-4823-4a27-bb18-58f15f1ef1e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5254ddcf43174144350d236cfff9ef1f</value>
+      <webElementGuid>7c0eda77-c4e9-42f6-8120-cf5a93a2c4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' stat_block ') and (position() = 2)]//h2[@class and contains(concat(' ', normalize-space(@class), ' '), ' color ')]</value>
+      <webElementGuid>ff0c4604-2692-4aa3-ba65-7ea864078c82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' stat_block ') and (position() = 2)]//h2[@class and contains(concat(' ', normalize-space(@class), ' '), ' color ')]</value>
+      <webElementGuid>b2b512e2-c692-4c99-82df-376bc15f8aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '5' or . = '5')]</value>
+      <webElementGuid>27a09de0-0743-4679-bd17-9bd16f91411d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
