@@ -18,9 +18,15 @@ Map<String, String> suiteProperties = new HashMap<String, String>();
 
 suiteProperties.put('rerunTestFailImmediately', 'true')
 suiteProperties.put('retryCount', '3')
+
 suiteProperties.put('name', 'TS04-Watchlist and favorites')
 suiteProperties.put('description', '')
 suiteProperties.put('id', 'Test Suites/TS04-Watchlist and favorites')
+
+suiteProperties.put('name', 'TS01 - Verify search functionality')
+suiteProperties.put('description', '')
+suiteProperties.put('id', 'Test Suites/TS01 - Verify search functionality')
+ 29a50baa07362e93be1ac8735071c0ad7baaf92d
  
 
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.webui.contribution.WebUiDriverCleaner())
@@ -31,10 +37,18 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
+ 
 RunConfiguration.setExecutionSettingFile("C:\\Users\\KHANGPHAN0512\\Documents\\FileCuoiky\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260331_223002\\TS04-Watchlist and favorites\\20260331_223002\\execution.properties")
+
+RunConfiguration.setExecutionSettingFile("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260330_212103\\TS01 - Verify search functionality\\20260330_212103\\execution.properties")
+ 29a50baa07362e93be1ac8735071c0ad7baaf92d
 
 TestCaseMain.beforeStart()
 
 new ExecutionMain().init();
 
+
 TestCaseMain.startTestSuite('Test Suites/TS04-Watchlist and favorites', suiteProperties, new File("C:\\Users\\KHANGPHAN0512\\Documents\\FileCuoiky\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260331_223002\\TS04-Watchlist and favorites\\20260331_223002\\testCaseBinding"))
+
+TestCaseMain.startTestSuite('Test Suites/TS01 - Verify search functionality', suiteProperties, new File("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260330_212103\\TS01 - Verify search functionality\\20260330_212103\\testCaseBinding"))
+29a50baa07362e93be1ac8735071c0ad7baaf92d
