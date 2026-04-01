@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07 - GET movie_Avengers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aca54e78-4965-4e16-83e3-e902f739b3a7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC09 - GET movie_Avengers_page_0</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56eeec5c-5705-4ca6-8a81-c7d9b7bcaa60</testCaseGuid>
+</TestCaseEntity>

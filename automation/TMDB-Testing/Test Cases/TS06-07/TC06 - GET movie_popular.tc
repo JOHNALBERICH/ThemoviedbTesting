@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - GET movie_popular</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c5a2d0e-47b2-4533-85b6-dc18884bc3f7</testCaseGuid>
+</TestCaseEntity>

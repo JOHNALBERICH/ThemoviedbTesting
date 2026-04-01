@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - GET movie_id with Valid ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80ed48bc-4f03-4ea6-badc-b03231829b0c</testCaseGuid>
+</TestCaseEntity>
