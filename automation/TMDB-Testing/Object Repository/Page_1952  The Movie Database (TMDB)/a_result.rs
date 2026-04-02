@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Avatar_ La v Tro Tn</name>
+   <name>a_result</name>
    <tag></tag>
-   <elementGuidId>c9301d1e-31d9-426d-a699-ff7691305972</elementGuidId>
+   <elementGuidId>8dabafaf-8358-4522-be5b-e01dddedcc09</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg' and @alt = 'Avatar: Lửa và Tro Tàn']</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' picture ')]//*[@data-media-type = 'movie']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@alt = 'Avatar: Lửa và Tro Tàn']</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/movie/1228242-vuosi-1952']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[alt=&quot;Avatar\:\ Lửa\ và\ Tro\ Tàn&quot;]</value>
+         <value>.card:nth-child(1) .picture [data-media-type=&quot;movie&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,79 +32,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>img</value>
-      <webElementGuid>60d5f04d-de30-4c6a-bc95-32fcd9461040</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>loading</name>
-      <type>Main</type>
-      <value>lazy</value>
-      <webElementGuid>dc77a1d0-7a5e-4f4d-9384-7a768c999200</webElementGuid>
+      <value>a</value>
+      <webElementGuid>72061ce7-e468-4f71-8796-61788bbf66d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>poster w-full</value>
-      <webElementGuid>630adc74-71ba-4d34-a61a-f50bd9e9cb10</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg</value>
-      <webElementGuid>01e273b0-2108-4021-9abc-b2aa4429f4e9</webElementGuid>
+      <value>result</value>
+      <webElementGuid>281c29d8-468c-4f67-b1f8-71eb6b281fab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>srcset</name>
+      <name>data-id</name>
       <type>Main</type>
-      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg 1x, https://media.themoviedb.org/t/p/w440_and_h660_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg 2x</value>
-      <webElementGuid>5d576263-c0ee-4fd2-b10a-02b8eb597ee9</webElementGuid>
+      <value>659c11cfc50ad2025a66eb2c</value>
+      <webElementGuid>6d57d615-fcf4-4c76-a78a-ce4a084d3c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-media-type</name>
+      <type>Main</type>
+      <value>movie</value>
+      <webElementGuid>2fcfd72c-a31c-4ec2-919f-2dc4fbb5785c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-media-adult</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>77ccaa22-fc1b-4bc7-b617-2deb300f5e20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>alt</name>
+      <name>href</name>
       <type>Main</type>
-      <value>Avatar: Lửa và Tro Tàn</value>
-      <webElementGuid>9bfd407d-cf5d-4570-82fe-e4c41b24c375</webElementGuid>
+      <value>/movie/1228242-vuosi-1952</value>
+      <webElementGuid>3c7f8378-fc0d-4b6f-a882-f7e32d215dfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-ffde5c0accdca6b2a246ecc8ddb63901</value>
-      <webElementGuid>2a2ca27c-4f09-42e2-b92c-6ddfe44449d3</webElementGuid>
+      <value>md5.v1-49c1e5ac0d5658eea149f1ddac79fdf3</value>
+      <webElementGuid>57260914-a152-411d-952e-a774375ce748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@alt = 'Avatar: Lửa và Tro Tàn']</value>
-      <webElementGuid>3c6b62d5-1aa5-4eb0-b607-056f1b6e59be</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' picture ')]//*[@data-media-type = 'movie']</value>
+      <webElementGuid>bc0660d9-c3b2-4e98-874d-64f1b2f17aa3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@alt = 'Avatar: Lửa và Tro Tàn']</value>
-      <webElementGuid>27336760-8511-47d4-aec2-a30ca35dc2c4</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' card ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' picture ')]//*[@data-media-type = 'movie']</value>
+      <webElementGuid>65c44248-a326-44f2-98cb-2a6c5cf6bc41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg' and @alt = 'Avatar: Lửa và Tro Tàn']</value>
-      <webElementGuid>f5c67710-7e23-43b6-9bf1-5d92823972f3</webElementGuid>
+      <value>//a[@href = '/movie/1228242-vuosi-1952']</value>
+      <webElementGuid>4d1e33f2-4a9a-496d-a7db-522e5d655848</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

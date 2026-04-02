@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_onetrust-accept-btn-handler</name>
+   <name>a_backdrops</name>
    <tag></tag>
-   <elementGuidId>7a1f4d79-3d95-4637-82b5-e7766cecaae7</elementGuidId>
+   <elementGuidId>13625825-d15c-4870-898c-a87e7ff0c7e2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'onetrust-accept-btn-handler' and (text() = 'Chấp nhận mọi cookie' or . = 'Chấp nhận mọi cookie')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'onetrust-accept-btn-handler']</value>
+         <value>//*[@id = 'backdrops']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#onetrust-accept-btn-handler</value>
+         <value>#backdrops</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,55 +28,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>bc9221d7-6038-4ae7-89b3-41bf8be8fc87</webElementGuid>
+      <value>a</value>
+      <webElementGuid>a81414e8-c0fa-40e5-8b9d-5a756dc42cfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>ee29f799-cfa3-4a09-9f98-d0d6e5c6b0c8</webElementGuid>
+      <value>backdrops</value>
+      <webElementGuid>45ac0559-4d8b-4a23-8304-18559de3877d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>media_panel</value>
+      <webElementGuid>002e71b3-bab0-42d2-84f3-4e2eefd3e01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>79885417-9b91-46dc-a997-cbcafd7919a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Chấp nhận mọi cookie</value>
-      <webElementGuid>21852f99-23bc-43c8-ab29-02c2eda41a68</webElementGuid>
+      <value>Backdrops 99</value>
+      <webElementGuid>3fff3a00-246d-49d1-839f-1cddddfe8e71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-303d1babeaf3338b5aa466cabd4a85ea</value>
-      <webElementGuid>97e297c8-8676-4552-9dd4-6f449f0cbec8</webElementGuid>
+      <value>md5.v1-251427c38f6a0ca1fed45e6eafee5ca2</value>
+      <webElementGuid>c6e51539-5b85-4230-aecb-d392da12468b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'onetrust-accept-btn-handler']</value>
-      <webElementGuid>95c96e3f-e8b3-4428-8653-c37e6e28a9a6</webElementGuid>
+      <value>//*[@id = 'backdrops']</value>
+      <webElementGuid>3c223cad-3448-4ba6-9570-bb22a8bcdbb1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'onetrust-accept-btn-handler']</value>
-      <webElementGuid>21ec350a-28aa-493b-a74a-62ee336c6f0c</webElementGuid>
+      <value>//*[@id = 'backdrops']</value>
+      <webElementGuid>9e0ad3ed-b04e-47e3-b819-c459691ca829</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Chấp nhận mọi cookie' or . = 'Chấp nhận mọi cookie')]</value>
-      <webElementGuid>45009e1e-e6ef-47aa-be49-74c745981292</webElementGuid>
+      <value>//a[@id = 'backdrops' and @href = '#' and (text() = 'Backdrops 99' or . = 'Backdrops 99')]</value>
+      <webElementGuid>afcaddec-780a-474d-b688-17aba1f30771</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

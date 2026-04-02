@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_svg</name>
+   <tag></tag>
+   <elementGuidId>3c7e3de8-1495-439d-a8ef-36d030c1a528</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'video_popup_wnd_title']//*[@focusable = 'false']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;video_popup_wnd_title&quot;] [focusable=&quot;false&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d6fdb133-ae5f-47c3-9c15-6c633f7a1408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>d4cef644-e526-4f66-a730-e50313f3ac62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>98e69de6-bf95-4f62-aea3-f40d0f766221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a9272a0f-d634-4a13-af59-da87ff5763d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-17c1c3d1ee98cc5a2738b611b5ea26ed</value>
+      <webElementGuid>948ffefb-f925-492f-87ac-fdfbe77d55ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'video_popup_wnd_title']//*[@focusable = 'false']</value>
+      <webElementGuid>f631a334-3da6-4489-bbac-0747ebba5439</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'video_popup_wnd_title']//*[@focusable = 'false']</value>
+      <webElementGuid>4e3dd95b-7425-4354-90f8-bb338de2b4bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Close</name>
+   <tag></tag>
+   <elementGuidId>2f10452f-09d6-445e-94f0-d6a6f3b2f4a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'video_popup_wnd_title']//*[@aria-label = 'Close']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;video_popup_wnd_title&quot;] [aria-label=&quot;Close&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>27a7547b-cb3e-44c9-9c12-587921b5e6e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30992e4f-f97b-4a24-bb7a-5df4e4eecae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-window-titlebar-action k-button k-button-md k-rounded-md k-button-flat k-button-flat-base k-icon-button</value>
+      <webElementGuid>9a8f0706-6e8e-44d4-897a-1536ba6b1aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>acd1c9f6-01d8-4630-92dd-7dbcd27dbea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fcd67bcb-f6de-4362-865e-f1931d8553c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2b6c4e5b01bfa6de106a11c2fb06bd12</value>
+      <webElementGuid>23f2f543-be40-4a15-95db-f5315f1ded79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'video_popup_wnd_title']//*[@aria-label = 'Close']</value>
+      <webElementGuid>b8eaa689-fa09-42ed-8cf2-43a34dbaf269</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'video_popup_wnd_title']//*[@aria-label = 'Close']</value>
+      <webElementGuid>3e2311bc-c321-47d5-b640-1983c1625f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>7fc54462-4c9c-47b0-ac9d-eab2d161568c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
