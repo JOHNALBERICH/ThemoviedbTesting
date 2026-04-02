@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Page_The Movie Database (TMDB)/input_Search for a 
 
 WebUI.click(findTestObject('Page_The Movie Database (TMDB)/input_button'))
 
-WebUI.click(findTestObject('Page_a  The Movie Database (TMDB)/a_2'))
+WebUI.click(findTestObject('Page_a  The Movie Database (TMDB)/a_Next'))
 
-WebUI.click(findTestObject('Page_a  The Movie Database (TMDB)/a_3'))
+WebUI.click(findTestObject('Page_a  The Movie Database (TMDB)/a_Next_1'))
 

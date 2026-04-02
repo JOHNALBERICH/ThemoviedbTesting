@@ -110,7 +110,7 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f41b83a8-97bb-4afc-9878-b914b42b82e5</guid>
+      <guid>97d9c67a-18e4-43d0-8fe6-2a44dbe63a07</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TS01/TC15 - Verify search results pagination</testCaseId>
