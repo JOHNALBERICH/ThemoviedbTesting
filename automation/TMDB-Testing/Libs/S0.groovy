@@ -31,10 +31,10 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260330_212103\\TS01 - Verify search functionality\\20260330_212103\\execution.properties")
+RunConfiguration.setExecutionSettingFile("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260402_182028\\TS01 - Verify search functionality\\20260402_182028\\execution.properties")
 
 TestCaseMain.beforeStart()
 
 new ExecutionMain().init();
 
-TestCaseMain.startTestSuite('Test Suites/TS01 - Verify search functionality', suiteProperties, new File("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260330_212103\\TS01 - Verify search functionality\\20260330_212103\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/TS01 - Verify search functionality', suiteProperties, new File("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260402_182028\\TS01 - Verify search functionality\\20260402_182028\\testCaseBinding"))
