@@ -6,12 +6,12 @@
    <elementGuidId>0c284857-fade-4481-b5bb-3643d60b01ef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[(name() = 'li') and (position() = 3)]//*[@title = 'Đăng nhập']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@href = '/login' and @title = 'Đăng nhập' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'li') and (position() = 3)]//*[@title = 'Đăng nhập']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f7b2a10c-cdbb-44d2-8f3c-0d49a6784163</webElementGuid>
+      <webElementGuid>18f8f6f1-091d-45c5-92ba-cc007fb57b74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>df62731d-aa89-49a2-8399-521d7d836ac2</webElementGuid>
+      <webElementGuid>65a60380-6629-4040-9a1e-3fb74da7aef3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>5b2c971c-0f83-4f78-860c-dfcb9b2b2c0a</webElementGuid>
+      <webElementGuid>30781637-eca2-4a96-92bf-17f8794bc6f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>2a39c9be-bbcd-4165-8519-9a915b709644</webElementGuid>
+      <webElementGuid>e581e887-1db6-4be4-abd1-d8023f9d780d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-090c71b3580245bac46d1f649e3a2a12</value>
-      <webElementGuid>e145f37c-cc70-495c-9f57-1473fc2cc073</webElementGuid>
+      <webElementGuid>723fe521-b2e6-4d71-89ea-bffb43caad81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[(name() = 'li') and (position() = 3)]//*[@title = 'Đăng nhập']</value>
-      <webElementGuid>7fa26c46-2d1c-43a0-8e8a-e5d6091dcc54</webElementGuid>
+      <webElementGuid>8ce6d269-85c2-495a-91c1-407fb1706150</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[(name() = 'li') and (position() = 3)]//*[@title = 'Đăng nhập']</value>
-      <webElementGuid>7ac16c54-9ef4-41a9-9bfa-93bdfea1b40a</webElementGuid>
+      <webElementGuid>890ced6f-6207-40dd-8878-493a8bb2953c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and @title = 'Đăng nhập' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>b7ff7648-aa3c-4af1-82e0-03a1775e4dac</webElementGuid>
+      <webElementGuid>550a7737-ad74-4c23-9498-8d79f1b5f7df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

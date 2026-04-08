@@ -27,15 +27,19 @@ WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Usern
 
 WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'))
 
-WebUI.doubleClick(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'))
-
 WebUI.setEncryptedText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'), 'iGDxf8hSRT4=')
 
 WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_login_button'))
 
 WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
 
-WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/span_Watchlist'))
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/img_The Movie Database (TMDB)'))
 
-WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/a_Movies'))
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Avatar_ Fire and Ash'))
+
+WebUI.click(findTestObject('Page_Avatar Fire and Ash (2025)  The Movie _b96647/div_vibes_label'))
+
+WebUI.click(findTestObject('Page_Avatar Fire and Ash (2025)  The Movie _b96647/span_drag'))
+
+WebUI.click(findTestObject('Page_Avatar Fire and Ash (2025)  The Movie _b96647/div_vibes_submit'))
 

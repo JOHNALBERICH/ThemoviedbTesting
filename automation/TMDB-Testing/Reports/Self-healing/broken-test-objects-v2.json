@@ -49,6 +49,156 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Phim Super Mario Thin H",
+      "brokenLocator": "//*[@alt \u003d \u0027Phim Super Mario Thiên Hà\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027trending_scroller\u0027]/div/div[4]/div/div/a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Phim Super Mario Thin H_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Tuyn Th D_Mi_ V Chin Thng",
+      "brokenLocator": "//*[@alt \u003d \u0027Tuyển Thủ Dê: \"Mùi\" Vị Chiến Thắng\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027trending_scroller\u0027]/div/div/div/div/a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Tuyn Th D_Mi_ V Chin Thng_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Tuyn Th D Mi V Chin Thng (2026)  The M_683bbb/button_ng",
+      "brokenLocator": "//*[@id \u003d \u0027onetrust-close-btn-container\u0027]//*[@aria-label \u003d \u0027Đóng\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@id\u003d\u0027close-pc-btn-handler\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Hoppers_ C Nhy K Diu",
+      "brokenLocator": "//*[@alt \u003d \u0027Hoppers: Cú Nhảy Kỳ Diệu\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027trending_scroller\u0027]/div/div/div/div/a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Hoppers_ C Nhy K Diu_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Frieren_ Php S Tin Tng",
+      "brokenLocator": "//*[@alt \u003d \u0027Frieren: Pháp Sư Tiễn Táng\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027trending_scroller\u0027]/div/div[18]/div/div/a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Frieren_ Php S Tin Tng_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Avatar_ La v Tro Tn",
+      "brokenLocator": "//*[@alt \u003d \u0027Avatar: Lửa và Tro Tàn\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027trending_scroller\u0027]/div/div/div/div/a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Avatar_ La v Tro Tn_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_H s ca ti  The Movie Database (TMDB)/a_Xp hng",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 k-tooltip-content \u0027)]//*[@title \u003d \u0027Xếp hạng\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u00278c8ccc74-ddfe-45a1-938e-ff2c0876a328_tb_active\u0027]/div/div/div[2]/p[3]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_H s ca ti  The Movie Database (TMDB)/a_Xp hng_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_H s ca ti  The Movie Database (TMDB)/a_Xp hng",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 k-tooltip-content \u0027)]//*[@title \u003d \u0027Xếp hạng\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027a79e2dd9-a7f5-4f72-94b8-0ad935bad518_tb_active\u0027]/div/div/div[2]/p[3]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_H s ca ti  The Movie Database (TMDB)/a_Xp hng_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_a  The Movie Database (TMDB)/a_2",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 tv \u0027)]//*[(name() \u003d \u0027a\u0027) and (position() \u003d 3)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[@id\u003d\u0027tv\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_a  The Movie Database (TMDB)/a_2_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_a  The Movie Database (TMDB)/a_3",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 tv \u0027)]//*[(name() \u003d \u0027a\u0027) and (position() \u003d 4)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[@id\u003d\u0027tv\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_a  The Movie Database (TMDB)/a_3_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/div_glyphicons_v2 circle-more white",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 card \u0027) and (position() \u003d 2)]//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 circle-more \u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u00274f0d7a8b19c295404e0010ee\u0027]/div/div/div/a/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/div_glyphicons_v2 circle-more white_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/div_hover 1159559 on",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 on \u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u002764ca9b5de263bb00e403e146\u0027]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/div_hover 1159559 on_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Scream 7",
+      "brokenLocator": "//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 card \u0027) and (position() \u003d 2)]//*[@class and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 poster \u0027) and contains(concat(\u0027 \u0027, normalize-space(@class), \u0027 \u0027), \u0027 w-full \u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@src \u003d \u0027https://media.themoviedb.org/t/p/w220_and_h330_face/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg\u0027 and @alt \u003d \u0027Scream 7\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Scream 7_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_The Movie Database (TMDB)/img_Hoppers",
+      "brokenLocator": "//*[@alt \u003d \u0027Hoppers\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u00274f0d7a8b19c295404e0010ee\u0027]/div/div/a/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_The Movie Database (TMDB)/img_Hoppers_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_My Profile  The Movie Database (TMDB)/button_onetrust-accept-btn-handler",
+      "brokenLocator": "//*[@id \u003d \u0027onetrust-accept-btn-handler\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@id\u003d\u0027accept-recommended-btn-handler\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
     }
   ]
 }

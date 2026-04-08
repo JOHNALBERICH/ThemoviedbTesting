@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC11-no trailer</name>
+   <name>TC11-No trailer</name>
    <tag></tag>
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>1d4b5297-649e-4389-9d87-95dcc51612f6</testCaseGuid>
+   <testCaseGuid>1c3d7546-2029-435b-8742-417831dba01c</testCaseGuid>
 </TestCaseEntity>

@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
+
 WebUI.setText(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person'), '1952')
 
-WebUI.setText(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person_1'), '1952')
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/div_The Year 1952 in Movies'))
 
-WebUI.sendKeys(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person_1'), 'Keys.chord(Keys.ENTER)')
-
-WebUI.click(findTestObject('Page_1952  The Movie Database (TMDB)/a_result'))
+WebUI.click(findTestObject('Page_The Year 1952  The Movie Database (TMDB)/div_image aspect-poster glyphicons_v2 picture no'))
 

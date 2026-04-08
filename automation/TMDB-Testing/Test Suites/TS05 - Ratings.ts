@@ -19,10 +19,10 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>889185f9-dbde-4c0d-9ff0-94d8730b693c</guid>
+      <guid>2309f7f5-b982-426e-9c51-283f84f07c49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TS05/TC02-Lower than valid value</testCaseId>
+      <testCaseId>Test Cases/TS05/TC02-lower than valid value</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -40,10 +40,10 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>05d6b3d9-d675-4675-a08c-144203248c25</guid>
+      <guid>2f4ccae7-5a7a-46bf-8a15-2796e345b815</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TS05/TC05-Negative rating value</testCaseId>
+      <testCaseId>Test Cases/TS05/TC05-Negative Value</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

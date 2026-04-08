@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC05-Negative rating value</name>
+   <name>TC05-Negative Value</name>
    <tag></tag>
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>59b779dc-05ac-414c-b7db-d68032b2b2e2</testCaseGuid>
+   <testCaseGuid>d5bad148-543e-4eb4-a1d9-f3af5f804e59</testCaseGuid>
 </TestCaseEntity>

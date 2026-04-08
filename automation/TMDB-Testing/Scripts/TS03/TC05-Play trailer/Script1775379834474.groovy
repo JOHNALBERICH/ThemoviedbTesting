@@ -21,25 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
-WebUI.click(findTestObject('Page_The Movie Database (TMDB)/a_ng nhp'))
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
 
-WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Username'), 'Alver_John')
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Avatar_ La v Tro Tn'))
 
-WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'))
+WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/a_Play Trailer'))
 
-WebUI.setEncryptedText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'), 'iGDxf8hSRT4=')
+WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/iframe_iframe'))
 
-WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_login_button'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('Page_H s ca ti  The Movie Database (TMDB)/img_The Movie Database (TMDB)'))
-
-WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Tuyn Th D_Mi_ V Chin Thng'))
-
-WebUI.click(findTestObject('Page_Tuyn Th D Mi V Chin Thng (2026)  The M_683bbb/div_Whats your Vibe'))
-
-WebUI.click(findTestObject('Page_Tuyn Th D Mi V Chin Thng (2026)  The M_683bbb/span_drag'))
-
-WebUI.click(findTestObject('Page_Tuyn Th D Mi V Chin Thng (2026)  The M_683bbb/button_ng'))
-
-WebUI.click(findTestObject('Page_Tuyn Th D Mi V Chin Thng (2026)  The M_683bbb/span_Im Done'))
+WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/div_player-controls-background'))
 

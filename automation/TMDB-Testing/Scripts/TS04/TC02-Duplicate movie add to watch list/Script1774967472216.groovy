@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
+
 WebUI.click(findTestObject('Page_The Movie Database (TMDB)/a_ng nhp'))
 
 WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Username'), 'Alver_John')
@@ -30,8 +32,6 @@ WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Passwor
 WebUI.setEncryptedText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'), 'iGDxf8hSRT4=')
 
 WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_login_button'))
-
-WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
 
 WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/img_The Movie Database (TMDB)'))
 

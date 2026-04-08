@@ -6,16 +6,16 @@
    <elementGuidId>5b56fed8-c54d-4813-a981-e9bacecb71f2</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/u/Alver_John/watchlist' and (text() = 'Movies' or . = 'Movies')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//*[@href = '/u/Alver_John/favorites']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-link ') and (@href = '/u/Alver_John/watchlist')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;\/u\/Alver_John\/favorites&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/u/Alver_John/favorites' and (text() = 'Movies' or . = 'Movies')]</value>
+         <value>.k-link[href=&quot;\/u\/Alver_John\/watchlist&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,15 +33,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d516b534-012f-4ac4-88cb-d0ed9a834539</webElementGuid>
+      <webElementGuid>a5a018bf-9f9d-48d5-93ec-a7ad48f73310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/u/Alver_John/favorites</value>
-      <webElementGuid>5cc025a0-03ac-4458-9984-7b1b0d8884e4</webElementGuid>
+      <value>/u/Alver_John/watchlist</value>
+      <webElementGuid>f2182e3c-20d1-420e-a437-cf45e946fcc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-link k-menu-link</value>
-      <webElementGuid>14a51ab1-955c-46dc-9aa8-8470063eebac</webElementGuid>
+      <webElementGuid>74ce7e4b-bc81-4127-bdba-ced4e561f9af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,24 +57,40 @@
       <name>text</name>
       <type>Main</type>
       <value>Movies</value>
-      <webElementGuid>083b12a3-d71c-4faf-8c3d-3e4b322be7f5</webElementGuid>
+      <webElementGuid>7b933a28-190f-4893-afde-8a8169a3fcd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-fe625d27cf153afcfd22d81c61ccb455</value>
-      <webElementGuid>492c7d0b-1959-4866-9b92-0901f6991f68</webElementGuid>
+      <value>md5.v1-c2ba8818a138da6280fe5cb600a7f244</value>
+      <webElementGuid>883ab018-de6c-4748-b4f8-8dc22fdba5d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = '/u/Alver_John/favorites']</value>
-      <webElementGuid>bcec20fc-2c19-4079-8842-240c8e0b5eda</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-link ') and (@href = '/u/Alver_John/watchlist')]</value>
+      <webElementGuid>d81bcf5d-54b7-43b5-8f37-62fd8220ec0f</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-link ') and (@href = '/u/Alver_John/watchlist')]</value>
+      <webElementGuid>36743e02-7764-44a8-8eca-46397c076844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/u/Alver_John/watchlist' and (text() = 'Movies' or . = 'Movies')]</value>
+      <webElementGuid>05fe901e-1f2e-4f8f-a7bb-5550393c938c</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -90,21 +106,5 @@
       <type>Main</type>
       <value>//a[@href = '/u/Alver_John/favorites' and (text() = 'Movies' or . = 'Movies')]</value>
       <webElementGuid>888b958a-ea6e-43c9-bf37-8e7b628f576b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-link ') and (@href = '/u/Alver_John/watchlist')]</value>
-      <webElementGuid>af7573b5-ef54-4347-8b0e-57c1740ca1cc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/u/Alver_John/watchlist' and (text() = 'Movies' or . = 'Movies')]</value>
-      <webElementGuid>c61cfed9-da60-486e-8968-aa3ba1d261e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

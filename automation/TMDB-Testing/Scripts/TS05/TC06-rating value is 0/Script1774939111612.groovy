@@ -37,7 +37,9 @@ WebUI.click(findTestObject('Page_H s ca ti  The Movie Database (TMDB)/img_The Mo
 
 WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Frieren_ Php S Tin Tng'))
 
-WebUI.click(findTestObject('Page_Frieren Php S Tin Tng (TV Series 2023-_946ae0/span_drag'))
+WebUI.click(findTestObject('Page_Bloodhounds (TV Series 2023- )  The Mo_594cc7/div_vibes_label'))
 
-WebUI.click(findTestObject('Page_Frieren Php S Tin Tng (TV Series 2023-_946ae0/div_vibes_submit'))
+WebUI.click(findTestObject('Page_Bloodhounds (TV Series 2023- )  The Mo_594cc7/span_drag'))
+
+WebUI.click(findTestObject('Page_Bloodhounds (TV Series 2023- )  The Mo_594cc7/div_vibes_submit'))
 

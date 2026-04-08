@@ -21,15 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
-WebUI.setText(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person'), '1952')
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/a_ng nhp'))
 
-WebUI.setText(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person_1'), '1952')
+WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Username'), 'Alver_John')
 
-WebUI.sendKeys(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person_1'), 'Keys.chord(Keys.ENTER)')
+WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'))
 
-WebUI.click(findTestObject('Page_1952  The Movie Database (TMDB)/a_result'))
+WebUI.setEncryptedText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'), 'iGDxf8hSRT4=')
 
-WebUI.click(findTestObject('Page_The Year 1952  The Movie Database (TMDB)/div_glyphicons_v2 picture grey poster no_image_h'))
+WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_login_button'))
 
-WebUI.click(findTestObject('Page_The Year 1952  The Movie Database (TMDB)/section_The Year 1952'))
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
+
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/img_The Movie Database (TMDB)'))
+
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Bloodhounds'))
+
+WebUI.click(findTestObject('Page_Bloodhounds (TV Series 2023- )  The Mo_594cc7/div_vibes_label'))
+
+WebUI.click(findTestObject('Page_Bloodhounds (TV Series 2023- )  The Mo_594cc7/span_drag'))
+
+WebUI.click(findTestObject('Page_Bloodhounds (TV Series 2023- )  The Mo_594cc7/div_vibes_submit'))
 

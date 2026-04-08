@@ -10,12 +10,12 @@
          <value>//*[@aria-label = 'Home']//*[@alt = 'The Movie Database (TMDB)']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>[aria-label=&quot;Home&quot;] [alt=&quot;The\ Movie\ Database\ \(TMDB\)&quot;]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@alt = 'The Movie Database (TMDB)' and @src = '/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Home&quot;] [alt=&quot;The\ Movie\ Database\ \(TMDB\)&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>75936e14-3c8c-46aa-a56a-b705deb38a20</webElementGuid>
+      <webElementGuid>9a29745b-3537-42ba-91b5-4ca7757c8e04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>The Movie Database (TMDB)</value>
-      <webElementGuid>f1f503d6-72dc-45ca-917f-3e88019a93df</webElementGuid>
+      <webElementGuid>ab9ff9b8-ae3e-4167-8322-2cfa6bd939e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>width</name>
       <type>Main</type>
       <value>154</value>
-      <webElementGuid>ee5b5d19-d187-43ff-85be-f402eb73af92</webElementGuid>
+      <webElementGuid>be82ca78-068b-4831-9ba5-dce9596937eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>height</name>
       <type>Main</type>
       <value>20</value>
-      <webElementGuid>1729470b-c5b5-484c-bff5-cef49992d415</webElementGuid>
+      <webElementGuid>d028f544-9ed0-4c29-b6e8-52d2057998ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg</value>
-      <webElementGuid>3baf582c-45a7-49e2-98cd-00240b7e2d18</webElementGuid>
+      <webElementGuid>e16e4eae-5e8d-422f-89f5-62e00a8d9842</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-57152e8a4e4ef8e7055cf8f7f034c9a1</value>
-      <webElementGuid>e11cfc0a-0112-48ed-a324-ac2d7f98ca45</webElementGuid>
+      <webElementGuid>25a785d2-c010-4c63-9c9c-a3e6976c4afa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Home']//*[@alt = 'The Movie Database (TMDB)']</value>
-      <webElementGuid>231429bd-7b8d-402b-9ddf-ba9cfe9fb89a</webElementGuid>
+      <webElementGuid>442e3938-4447-469a-91f9-4f01686d22c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-label = 'Home']//*[@alt = 'The Movie Database (TMDB)']</value>
-      <webElementGuid>423c7716-71e7-49b9-b2b5-ba1be535b8f4</webElementGuid>
+      <webElementGuid>4ed28c3a-1b69-4439-b091-f093915a200e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'The Movie Database (TMDB)' and @src = '/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg']</value>
-      <webElementGuid>a46931c3-6163-4cd1-9d2d-9b9e8a21aa85</webElementGuid>
+      <webElementGuid>8873c5d8-3876-42c1-897a-6cc7fafeac03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

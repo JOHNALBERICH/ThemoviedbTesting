@@ -6,6 +6,10 @@
    <elementGuidId>38426c08-f706-4a6e-92cd-b93d7579421f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' player-controls-background ')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' player-controls-background ')]</value>
       </entry>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>19e9441b-5b10-4446-b4d9-15a9d239c223</webElementGuid>
+      <webElementGuid>d8fc58cf-f920-4831-bb6d-2aaf958ce13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>player-controls-background</value>
-      <webElementGuid>d736025b-2bed-4955-b53b-cfec2a8b8447</webElementGuid>
+      <webElementGuid>b67a07db-1209-4a26-9878-75262e3cb453</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-84bb7c92c4dcd3cc25320dbdcfca4d71</value>
-      <webElementGuid>72cb1afd-eb12-48dd-9392-0b37d0688f17</webElementGuid>
+      <webElementGuid>00d32096-6958-4c94-9310-b4e7e96e63b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' player-controls-background ')]</value>
-      <webElementGuid>97068fc3-4ce6-41a2-9bb7-a2baffc9162a</webElementGuid>
+      <webElementGuid>6738fc68-ce8e-4fda-a3a7-3793562f1dda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/iframe_iframe</value>
-      <webElementGuid>d1f052a7-273f-460c-aef3-e7c4e86b3649</webElementGuid>
+      <webElementGuid>28ba749f-c4ba-433c-82ae-e66ef1f20bd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +73,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' player-controls-background ')]</value>
-      <webElementGuid>0e5217f6-df64-4fb8-bbb8-f99cc654c0dc</webElementGuid>
+      <webElementGuid>fe46f380-5229-440a-b450-bd4c83cf041d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
+
 WebUI.click(findTestObject('Page_The Movie Database (TMDB)/a_ng nhp'))
 
 WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Username'), 'Alver_John')

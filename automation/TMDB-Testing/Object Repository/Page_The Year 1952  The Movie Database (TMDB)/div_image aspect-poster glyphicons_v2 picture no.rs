@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_div</name>
+   <name>div_image aspect-poster glyphicons_v2 picture no</name>
    <tag></tag>
-   <elementGuidId>56aa60dc-e300-45c2-8934-e1ebfbca9349</elementGuidId>
+   <elementGuidId>6c7ba703-bb64-494d-8d63-2be15b4a9067</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayPlayButtonIcon ')]//div</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayPlayButtonIcon ')]//div</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' picture ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.ytmCuedOverlayPlayButtonIcon div</value>
+         <value>.picture</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,38 +29,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3a59e0a9-2f53-47f4-9d76-30a2573d9883</webElementGuid>
+      <webElementGuid>622150d8-f2d3-4885-9418-47ded3c85da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image aspect-poster glyphicons_v2 picture no_image_holder !bg-light-grey grey !rounded-none overflow-hidden</value>
+      <webElementGuid>d7d7032d-4856-4f87-8066-2f323c21b7dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a508d601444ff622d125303a71561d51</value>
-      <webElementGuid>7c05422f-baa3-45b0-9b65-42d566fd428c</webElementGuid>
+      <value>md5.v1-2db0e2b69932e6b0683a71231f3ac593</value>
+      <webElementGuid>9a1dd266-9b9e-4b7f-8a35-aeeeb2b90e21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayPlayButtonIcon ')]//div</value>
-      <webElementGuid>1bb0b6c2-649a-4039-b1de-1b75d40cb694</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/iframe_iframe</value>
-      <webElementGuid>c3a686f9-d828-432f-8c6c-8f8e9aeeb89b</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' picture ')]</value>
+      <webElementGuid>0ba4bdf4-f919-47f1-b0bf-d2a421196f84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' ytmCuedOverlayPlayButtonIcon ')]//div</value>
-      <webElementGuid>478ac6da-29b9-4278-b804-4d7e3ae24ab9</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' picture ')]</value>
+      <webElementGuid>f60b9258-9447-4e8b-99be-ec76a02c7cb4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

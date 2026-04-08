@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username</name>
+   <name>span_drag</name>
    <tag></tag>
-   <elementGuidId>08f89db8-b7be-45bb-8522-3d996b918f87</elementGuidId>
+   <elementGuidId>8fa27122-67b6-44ab-b17a-90ade83ccc9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@id = 'username' and @type = 'text' and @name = 'username']</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'username']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-draghandle ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>.k-draghandle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -32,111 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>1dd6935d-1550-4fc8-afc7-e34d198909e5</webElementGuid>
+      <value>span</value>
+      <webElementGuid>85f7626e-0cce-423a-a933-c475aedd4318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>0722dae9-4325-49c7-8b84-e8e760c9a6e4</webElementGuid>
+      <value>0</value>
+      <webElementGuid>d2e4c98f-04fc-4659-ace2-40b11903a6cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-input k-textbox k-input-solid k-input-md k-rounded-md k-input-inner</value>
-      <webElementGuid>6dd4d257-f7a8-4e5e-aa93-8e983dafa9e1</webElementGuid>
+      <value>k-draghandle</value>
+      <webElementGuid>7b63a72f-aa71-497c-b8c3-7fc9396672ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>title</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>b5328f81-d251-46b1-b8aa-df12db9f519c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>deb4845d-76e0-43e1-8ced-909469ef6751</webElementGuid>
+      <value>drag</value>
+      <webElementGuid>1fb7d39b-7f0f-4beb-9895-be94d670f0ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocapitalize</name>
+      <name>role</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>7412a766-3711-4cae-9f9e-dc52972ce315</webElementGuid>
+      <value>slider</value>
+      <webElementGuid>f7b6aabf-1a69-440f-8f08-8c4aaeeca852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-valuemin</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e4e7532d-80ed-4b4c-bb6b-3522a89d277a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-valuemax</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>60d2898c-ef61-4299-be63-fa9199a857c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-valuenow</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>669e9ea2-3fa7-42e5-b781-cae1b338a5cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-role</name>
       <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>71620208-ea5a-48d6-bc02-9381e2e2c5e6</webElementGuid>
+      <value>draggable</value>
+      <webElementGuid>0b94c335-ada9-431d-8b88-8a7f1f0a07a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>aria-valuetext</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>848a72d1-f774-4658-9d12-3e8ae5adaacf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>inputmode</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>83656d81-bdcf-428f-aa18-4689f7c955a9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>28d21562-04e5-4637-9946-f660ddf06419</webElementGuid>
+      <value>Dumpster Fire</value>
+      <webElementGuid>78fee9f2-9db8-4ed2-8573-fd71a70f76e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-3d2c3dd43d9fa890160f2bddb48eef38</value>
-      <webElementGuid>a687d9af-8cf4-4fa7-b1e8-96118894925b</webElementGuid>
+      <value>md5.v1-8d5a85fdd6e4681e4d6ef3813f6683ea</value>
+      <webElementGuid>2eb13179-2c10-459a-a9eb-82107bbbff30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'username']</value>
-      <webElementGuid>4ff217d8-361f-4211-88b2-2fdb4e9a0276</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-draghandle ')]</value>
+      <webElementGuid>cf6d0179-26e1-4ce4-9bd4-04a800e02ae6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'username']</value>
-      <webElementGuid>d04375bc-05d0-4ce2-914d-aef4a35b3d38</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' k-draghandle ')]</value>
+      <webElementGuid>93f22d4a-63b7-4d5c-8027-2ca2e8f7e6ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'username' and @type = 'text' and @name = 'username']</value>
-      <webElementGuid>e34eac5b-d149-4019-9005-63695996feb0</webElementGuid>
+      <value>//span[@title = 'drag']</value>
+      <webElementGuid>df7f568c-9fe1-4e0e-9715-ea7c25e36d57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Avatar_ Fire and Ash</name>
+   <name>img_Bloodhounds</name>
    <tag></tag>
-   <elementGuidId>89d460d3-d88b-463c-8060-0f10bd6f7f8b</elementGuidId>
+   <elementGuidId>7f757193-4075-4408-a6ea-7c4fdc65b70a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg' and @alt = 'Avatar: Fire and Ash']</value>
+         <key>XPATH</key>
+         <value>//*[@alt = 'Bloodhounds']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[alt=&quot;Avatar\:\ Fire\ and\ Ash&quot;]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@alt = 'Avatar: Fire and Ash']</value>
+         <value>[alt=&quot;Bloodhounds&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>05765d33-566c-4547-99ad-03fd6c21416e</webElementGuid>
+      <webElementGuid>903ba9e1-80ff-42e4-abce-54e5595fb3fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +37,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>619b9e4f-85e1-40dd-9638-5d4cac04e843</webElementGuid>
+      <webElementGuid>c3e74455-5d38-478d-a7a2-93a89a676841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,62 +45,62 @@
       <name>class</name>
       <type>Main</type>
       <value>poster w-full</value>
-      <webElementGuid>aa0d96c8-fa44-4b04-b96a-7c267ff2cb02</webElementGuid>
+      <webElementGuid>06308baa-e0eb-475f-8794-8bd7f380d65f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg</value>
-      <webElementGuid>f47318ef-356e-4391-9160-a7d1d8d71631</webElementGuid>
+      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg</value>
+      <webElementGuid>c16c2d48-cdad-4530-8bb6-ed6a53df897f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>srcset</name>
       <type>Main</type>
-      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg 1x, https://media.themoviedb.org/t/p/w440_and_h660_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg 2x</value>
-      <webElementGuid>51191e4e-3c51-487d-aeb7-b5a8273e595a</webElementGuid>
+      <value>https://media.themoviedb.org/t/p/w220_and_h330_face/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg 1x, https://media.themoviedb.org/t/p/w440_and_h660_face/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg 2x</value>
+      <webElementGuid>f8f1ca93-55a1-4898-b86c-028e88587d8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Avatar: Fire and Ash</value>
-      <webElementGuid>961de9f9-b1b4-4aaf-9caa-9c61eddf0353</webElementGuid>
+      <value>Bloodhounds</value>
+      <webElementGuid>3ce63ca7-ddaa-4b39-8cb0-5ffd0cbce370</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-1eece6d26f6fd1019a788eb89757a516</value>
-      <webElementGuid>55cb157b-6321-479e-8473-99157face888</webElementGuid>
+      <value>md5.v1-a9fcc1715a2ac2fe07bd386a6d71d3b0</value>
+      <webElementGuid>d2b83270-c0dd-4e6c-9e56-f0ff601ebd0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@alt = 'Avatar: Fire and Ash']</value>
-      <webElementGuid>a32f7728-202d-41ad-9d90-36198eedfde3</webElementGuid>
+      <value>//*[@alt = 'Bloodhounds']</value>
+      <webElementGuid>805b4c29-8c5b-48d0-b1fa-5fe1a5aa68ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@alt = 'Avatar: Fire and Ash']</value>
-      <webElementGuid>e81cb7bc-a544-4262-bb34-6c4fa12d7841</webElementGuid>
+      <value>//*[@alt = 'Bloodhounds']</value>
+      <webElementGuid>464770da-13bf-40bc-80ff-e1a7970c08af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg' and @alt = 'Avatar: Fire and Ash']</value>
-      <webElementGuid>c551a27a-841f-4bca-9d4f-9cf0ef055aa6</webElementGuid>
+      <value>//img[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg' and @alt = 'Bloodhounds']</value>
+      <webElementGuid>ab8613ce-f565-4e11-80fa-e51173a58692</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

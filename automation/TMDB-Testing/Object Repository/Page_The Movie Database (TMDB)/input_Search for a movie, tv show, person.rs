@@ -6,12 +6,12 @@
    <elementGuidId>0ba05fb0-2a58-4993-9bd2-b2a7088b2cfe</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-autocomplete = 'list']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'search_v4' and @name = 'query' and @type = 'text' and @placeholder = 'Search for a movie, tv show, person...']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-autocomplete = 'list']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ec77d78a-ca86-4c8b-a4e1-95a5c11437dd</webElementGuid>
+      <webElementGuid>8cd65eab-1396-4e04-bcb6-1b8a443698e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>eef57aaf-6319-4800-8313-10d539207b31</webElementGuid>
+      <webElementGuid>3bda17bd-907b-4e24-b7f2-baa53253030f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search_v4</value>
-      <webElementGuid>679ab059-ce11-4929-91a9-1a7bfd00d7b8</webElementGuid>
+      <webElementGuid>47a0f86c-a13e-4dca-ae9b-cbfdd70e988f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>query</value>
-      <webElementGuid>bc2534c1-3dca-4522-937a-b08fb447704c</webElementGuid>
+      <webElementGuid>844dde33-24ac-4ac0-8026-a17ed4a9b8cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>08d94cf0-cae7-45d0-9404-7399a46f10bc</webElementGuid>
+      <webElementGuid>466dc827-df07-428d-abab-f77acd94d34f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>37ce57cf-9818-48bb-a7e8-019fb2921f1d</webElementGuid>
+      <webElementGuid>569821c5-8da0-40af-ae19-1c8dae1f97d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>autofill</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>bc4fc8dc-3cba-42cf-8e9d-b6ff79754170</webElementGuid>
+      <webElementGuid>79f202f9-588b-4d98-8d39-4e434f0e0a69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1b66e53c-b9d0-4e38-86c2-9a88b62ddfc0</webElementGuid>
+      <webElementGuid>752ee490-c1b8-4a78-9ba6-faef02d179c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e47559af-d4cb-456d-b78f-fdd43167648f</webElementGuid>
+      <webElementGuid>044f0da0-98cd-431c-b783-b0288319f380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -105,7 +105,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search for a movie, tv show, person...</value>
-      <webElementGuid>9c3ffd8e-7cae-4ecd-887f-51b5d71f73d2</webElementGuid>
+      <webElementGuid>251087a2-dd0d-4666-8d13-fb5486bc8919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>9c96e052-920d-4013-ad60-973ed7c3a933</webElementGuid>
+      <webElementGuid>9174a941-3206-4eb3-bb80-a244ca111db6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7de6d902-360f-4350-8e7a-eb4a2cf7ac32</webElementGuid>
+      <webElementGuid>66d6ebb8-33bb-41e1-a34d-ee59159971c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-input-inner</value>
-      <webElementGuid>b20468a2-8066-4af3-902f-c78bd18530e3</webElementGuid>
+      <webElementGuid>442b589c-9d4f-4c34-87df-e689ba712f9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e0851acb-ed6d-441d-841b-f406ca623dff</webElementGuid>
+      <webElementGuid>0eddc347-94c6-4b36-8afb-51859529285c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -145,7 +145,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a68f319a960ea9e56ffc7a5f1906d619</value>
-      <webElementGuid>8a97d5b1-6911-44d8-ad87-3bccb3ca4d0c</webElementGuid>
+      <webElementGuid>380debf3-0f13-4d00-89cc-2820215ee5e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -153,7 +153,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@aria-autocomplete = 'list']</value>
-      <webElementGuid>be3836f3-46fe-4828-ae63-70763ddac16f</webElementGuid>
+      <webElementGuid>4edd959b-066f-4da3-a7ef-dbc6c35e162e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -161,7 +161,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1884bcdd-3419-4d4a-91ff-dad4c4c35228</webElementGuid>
+      <webElementGuid>c09156bb-3545-4aee-b164-c55f994f9e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -169,7 +169,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>94b47cce-7b7a-4b17-b3e9-a9b13c6b873d</webElementGuid>
+      <webElementGuid>80703230-86e6-4ec6-9250-471b605ec3da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -177,7 +177,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3cf5094f-b951-41c4-a84b-4f05a10cb3ad</webElementGuid>
+      <webElementGuid>83fc0d28-3ef4-4111-a2ea-2f85bfcfd26e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -185,7 +185,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>c860370e-fa59-44a0-83b5-85a389fd169b</webElementGuid>
+      <webElementGuid>2aceda39-949f-492e-9795-0fe20639ff98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -193,7 +193,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>search_v4_listbox</value>
-      <webElementGuid>292abc58-fea5-40c8-a92e-60f7427a2194</webElementGuid>
+      <webElementGuid>c1302465-7651-476a-a657-9ac2e40f4a56</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -201,7 +201,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@aria-autocomplete = 'list']</value>
-      <webElementGuid>2fdfd860-bca6-4f56-97ee-b2446a87d64e</webElementGuid>
+      <webElementGuid>a3f9cd33-af01-4030-b29b-b7beb6dcc20e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -209,7 +209,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'search_v4' and @name = 'query' and @type = 'text' and @placeholder = 'Search for a movie, tv show, person...']</value>
-      <webElementGuid>be4f3ae6-ede4-4fb6-8872-8a7bb6acd2c8</webElementGuid>
+      <webElementGuid>7fa29d12-7583-462b-9718-a1b9b6e34237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

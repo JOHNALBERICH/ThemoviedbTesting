@@ -10,12 +10,12 @@
          <value>//*[@id = 'onetrust-accept-btn-handler']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#onetrust-accept-btn-handler</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'onetrust-accept-btn-handler' and (text() = 'Chấp nhận mọi cookie' or . = 'Chấp nhận mọi cookie')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-accept-btn-handler</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e044dc4c-efef-44e9-8f4c-6259e2555cbe</webElementGuid>
+      <webElementGuid>369c4e40-06df-4794-b988-4b0028ffc0c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onetrust-accept-btn-handler</value>
-      <webElementGuid>d1db30ed-13d1-4182-91a6-f84a626021da</webElementGuid>
+      <webElementGuid>04f4bd22-fc59-4733-89b2-c6e5b45d7e0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Chấp nhận mọi cookie</value>
-      <webElementGuid>f8b4723f-c2c6-4d1b-8406-bd4befd00352</webElementGuid>
+      <webElementGuid>47ac3d33-ca4e-4024-b9a2-9d0c5afb2cc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-303d1babeaf3338b5aa466cabd4a85ea</value>
-      <webElementGuid>712ad68b-0377-40b6-a0f4-aee1f709ef7a</webElementGuid>
+      <webElementGuid>0c65ca1e-3146-4774-a55e-c435b0596d9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'onetrust-accept-btn-handler']</value>
-      <webElementGuid>9397449c-731f-4822-a29d-f2f0ee805077</webElementGuid>
+      <webElementGuid>0336f54f-51d3-4188-9ab1-3148457673c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'onetrust-accept-btn-handler']</value>
-      <webElementGuid>5390cb83-43e3-4253-abfb-511f5f758260</webElementGuid>
+      <webElementGuid>554eb483-897b-4b5b-b59e-2b366c3221e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +81,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onetrust-accept-btn-handler' and (text() = 'Chấp nhận mọi cookie' or . = 'Chấp nhận mọi cookie')]</value>
-      <webElementGuid>4c868bd4-9387-4a5e-ad0e-7fe8760d518c</webElementGuid>
+      <webElementGuid>541fd1a2-f774-46be-a5dc-71e8ebcc4f07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

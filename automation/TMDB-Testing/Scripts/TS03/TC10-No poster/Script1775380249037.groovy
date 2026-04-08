@@ -21,23 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
-WebUI.click(findTestObject('Page_The Movie Database (TMDB)/a_ng nhp'))
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
 
-WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Username'), 'Alver_John')
+WebUI.setText(findTestObject('Page_The Movie Database (TMDB)/input_Search for a movie, tv show, person'), '1952')
 
-WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'))
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/div_The Year 1952 in Movies'))
 
-WebUI.setEncryptedText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'), 'iGDxf8hSRT4=')
-
-WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_login_button'))
-
-WebUI.click(findTestObject('Page_H s ca ti  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
-
-WebUI.click(findTestObject('Page_H s ca ti  The Movie Database (TMDB)/img_The Movie Database (TMDB)'))
-
-WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Frieren_ Php S Tin Tng'))
-
-WebUI.click(findTestObject('Page_Frieren Php S Tin Tng (TV Series 2023-_946ae0/span_drag'))
-
-WebUI.click(findTestObject('Page_Frieren Php S Tin Tng (TV Series 2023-_946ae0/div_vibes_submit'))
+WebUI.click(findTestObject('Page_The Year 1952  The Movie Database (TMDB)/div_image aspect-poster glyphicons_v2 picture no'))
 

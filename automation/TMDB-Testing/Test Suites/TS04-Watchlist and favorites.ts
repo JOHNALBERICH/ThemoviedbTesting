@@ -82,7 +82,7 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>444b231b-71f4-4929-9a9e-5faa4077bbf1</guid>
+      <guid>5d04b9f8-a8ef-439f-971b-3e7b71a8ef9f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TS04/TC11-Pagination on watchlist</testCaseId>

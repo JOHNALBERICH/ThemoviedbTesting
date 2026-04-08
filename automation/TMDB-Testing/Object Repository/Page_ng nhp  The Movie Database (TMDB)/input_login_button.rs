@@ -6,12 +6,12 @@
    <elementGuidId>76f790e5-e11d-4919-92a4-c9e5c9f6b836</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'login_button']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'login_button' and @type = 'submit']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'login_button']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e6df9333-9ad6-481b-a721-ce3805f18cd5</webElementGuid>
+      <webElementGuid>388295e6-a37f-4630-8fba-3ca0dc31893f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login_button</value>
-      <webElementGuid>d4ac92ab-ce8a-4d8e-a697-6d1b9d2364db</webElementGuid>
+      <webElementGuid>c3679add-2b60-44ee-80ee-daab74f10bf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
-      <webElementGuid>89274c5b-4a9b-4606-aeef-70b560e811e8</webElementGuid>
+      <webElementGuid>438c9c85-4b31-4090-bbec-7b86b5f9ef0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>878bda71-ca42-4c20-8d49-4e76a4c26a52</webElementGuid>
+      <webElementGuid>a57ae600-bb06-468e-a338-0815f8d2c944</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>66884eeb-95f6-4f05-8438-f4f1721de702</webElementGuid>
+      <webElementGuid>4e354825-81b1-4124-b0d5-d1dc5a0a89f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>data-role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0036b7e4-ee01-490c-b53f-0778c75f3e38</webElementGuid>
+      <webElementGuid>014e1796-2d05-43c3-aa9f-3802989856c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2f4307f5-adcc-49ab-9793-4cf1576b58b2</webElementGuid>
+      <webElementGuid>99075f9c-7581-4c26-a50c-6e049bfab419</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ca18d3e2-0d62-4be6-9a4f-1e5f983e9c6f</webElementGuid>
+      <webElementGuid>bb6a601f-aea6-4b08-a753-85e3855e03ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c2586fec-6b6c-4764-8584-a6ac605f73a8</webElementGuid>
+      <webElementGuid>66880096-cc3e-4b1f-a725-21911ba6ce27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-670fce10bbc40e87b62b3af4c18006c5</value>
-      <webElementGuid>6e5a233e-f72b-4b57-afca-fcc128f441b8</webElementGuid>
+      <webElementGuid>664df75d-4304-4e88-9a70-1b03889e8163</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'login_button']</value>
-      <webElementGuid>9d6258c2-e322-4122-946b-d2bff35eae6c</webElementGuid>
+      <webElementGuid>18c3ccd8-badf-4ad7-b802-7ab3078bbbb1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'login_button']</value>
-      <webElementGuid>669ad28e-bcc1-48ab-a6b8-acfa48a0d995</webElementGuid>
+      <webElementGuid>5251e112-3282-4f56-977a-81eafc47330b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'login_button' and @type = 'submit']</value>
-      <webElementGuid>7814e0ad-0f7c-456f-a2a5-7c707cd1306a</webElementGuid>
+      <webElementGuid>ce60e9bd-3470-4e08-9b26-c6b85f7da30c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

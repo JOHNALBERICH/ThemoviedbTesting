@@ -31,10 +31,10 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\KHANGPHAN0512\\Documents\\FileCuoiky\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260402_144447\\TS03-Movie detail\\20260402_144447\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\KHANGPHAN0512\\Documents\\FileCuoiky\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260405_161442\\TS03-Movie detail\\20260405_161442\\execution.properties")
 
 TestCaseMain.beforeStart()
 
 new ExecutionMain().init();
 
-TestCaseMain.startTestSuite('Test Suites/TS03-Movie detail', suiteProperties, new File("C:\\Users\\KHANGPHAN0512\\Documents\\FileCuoiky\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260402_144447\\TS03-Movie detail\\20260402_144447\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/TS03-Movie detail', suiteProperties, new File("C:\\Users\\KHANGPHAN0512\\Documents\\FileCuoiky\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260405_161442\\TS03-Movie detail\\20260405_161442\\testCaseBinding"))

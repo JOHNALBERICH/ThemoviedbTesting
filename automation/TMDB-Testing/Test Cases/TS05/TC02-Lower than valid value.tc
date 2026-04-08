@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC02-Lower than valid value</name>
+   <name>TC02-lower than valid value</name>
    <tag></tag>
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b40a9399-c13f-4548-ab45-d4fa5b633200</testCaseGuid>
+   <testCaseGuid>bc76054c-acc7-46c5-a7ad-09c8c9b5ac8c</testCaseGuid>
 </TestCaseEntity>

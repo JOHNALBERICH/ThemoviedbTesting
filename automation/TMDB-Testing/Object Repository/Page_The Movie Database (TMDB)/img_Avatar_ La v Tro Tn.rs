@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg' and @alt = 'Avatar: Lửa và Tro Tàn']</value>
+         <value>//*[@alt = 'Avatar: Lửa và Tro Tàn' and @src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg']</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>60d5f04d-de30-4c6a-bc95-32fcd9461040</webElementGuid>
+      <webElementGuid>16ed445e-547d-402a-bf7e-7e8aafe4eaaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,15 +41,15 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>dc77a1d0-7a5e-4f4d-9384-7a768c999200</webElementGuid>
+      <webElementGuid>8fdf0b78-8e2c-43b8-88c1-142f103e96d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>poster w-full</value>
-      <webElementGuid>630adc74-71ba-4d34-a61a-f50bd9e9cb10</webElementGuid>
+      <value>poster w-full block</value>
+      <webElementGuid>6af5bd58-03e6-4627-a188-7c22b6ac5ce8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg</value>
-      <webElementGuid>01e273b0-2108-4021-9abc-b2aa4429f4e9</webElementGuid>
+      <webElementGuid>c55a9d00-6b75-4542-b13a-20c0925f816f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg 1x, https://media.themoviedb.org/t/p/w440_and_h660_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg 2x</value>
-      <webElementGuid>5d576263-c0ee-4fd2-b10a-02b8eb597ee9</webElementGuid>
+      <webElementGuid>f45b152c-eeff-433d-a359-decd01cc2524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Avatar: Lửa và Tro Tàn</value>
-      <webElementGuid>9bfd407d-cf5d-4570-82fe-e4c41b24c375</webElementGuid>
+      <webElementGuid>85db3e02-9621-4945-8e28-ae404908e5a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-ffde5c0accdca6b2a246ecc8ddb63901</value>
-      <webElementGuid>2a2ca27c-4f09-42e2-b92c-6ddfe44449d3</webElementGuid>
+      <webElementGuid>88b99152-a090-453a-baf3-9202637efbc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@alt = 'Avatar: Lửa và Tro Tàn']</value>
-      <webElementGuid>3c6b62d5-1aa5-4eb0-b607-056f1b6e59be</webElementGuid>
+      <webElementGuid>223aacf0-d0b1-4f44-a99d-60dab8260241</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@alt = 'Avatar: Lửa và Tro Tàn']</value>
-      <webElementGuid>27336760-8511-47d4-aec2-a30ca35dc2c4</webElementGuid>
+      <webElementGuid>88e72b3f-3023-46d1-8046-64c41593b1ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Avatar: Lửa và Tro Tàn' and @src = 'https://media.themoviedb.org/t/p/w220_and_h330_face/w6DBmG260sCHBQdGzkBIVn9gAQZ.jpg']</value>
+      <webElementGuid>afe31234-69ba-410d-abfd-6513bce5ddf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

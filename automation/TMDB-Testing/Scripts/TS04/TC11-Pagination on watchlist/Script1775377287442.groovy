@@ -21,13 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.themoviedb.org/')
 
-WebUI.click(findTestObject('Page_The Movie Database (TMDB)/img_Avatar_ La v Tro Tn'))
+WebUI.click(findTestObject('Page_The Movie Database (TMDB)/a_ng nhp'))
 
-WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/a_Play Trailer'))
+WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/button_onetrust-accept-btn-handler'))
 
-WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/button_onetrust-accept-btn-handler'))
+WebUI.setText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Username'), 'Alver_John')
 
-WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/iframe_iframe'))
+WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'))
 
-WebUI.click(findTestObject('Page_Avatar La v Tro Tn (2025)  The Movie D_a1a082/div_div_1'))
+WebUI.setEncryptedText(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_Password'), 'iGDxf8hSRT4=')
+
+WebUI.click(findTestObject('Page_ng nhp  The Movie Database (TMDB)/input_login_button'))
+
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/span_Watchlist'))
+
+WebUI.click(findTestObject('Page_My Profile  The Movie Database (TMDB)/a_Movies'))
 

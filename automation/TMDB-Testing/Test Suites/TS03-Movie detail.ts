@@ -12,31 +12,31 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>452b012b-45e4-4b0b-a63e-dec0f140fbdb</testSuiteGuid>
    <testCaseLink>
-      <guid>1ab5ae22-4ecd-4aa8-953e-b859454e9fbd</guid>
+      <guid>fd71d215-c1b3-4f8d-b13a-72e6d5040abf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TS03/TC05-play trailer</testCaseId>
+      <testCaseId>Test Cases/TS03/TC05-Play trailer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>75b533df-451b-49f9-ac50-e1ad1ae2049b</guid>
+      <guid>458f5687-801d-435a-a482-eec51c5c713b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TS03/TC06-media tab</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d5794305-3c87-4e07-9c3d-729433c5f179</guid>
+      <guid>fd76624b-916c-42e4-9935-171b19952912</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TS03/TC10-No poster</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e2835610-9116-4e09-ba7a-d16a6156dfa8</guid>
+      <guid>3d521c04-d965-4e03-9ffa-87299847aff8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TS03/TC11-no trailer</testCaseId>
+      <testCaseId>Test Cases/TS03/TC11-No trailer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

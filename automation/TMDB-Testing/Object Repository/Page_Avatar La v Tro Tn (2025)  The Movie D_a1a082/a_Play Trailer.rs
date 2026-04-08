@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>37058afe-c3ad-4a87-9249-9e8d4aa1b173</webElementGuid>
+      <webElementGuid>e0068910-0482-4b02-a416-ee22994c7c82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>no_click play_trailer</value>
-      <webElementGuid>b8890446-4bcd-4105-9126-451d159528e7</webElementGuid>
+      <webElementGuid>3452ba22-fb95-48a9-afe5-5b32c4b70b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>dd72ec5b-9444-40d7-94a2-3b3a25059bb4</webElementGuid>
+      <webElementGuid>f13828c1-750f-4bdc-a8da-e32e30ea3283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>data-site</name>
       <type>Main</type>
       <value>YouTube</value>
-      <webElementGuid>6f4fa7af-5697-46e3-a523-680e8f77f6b9</webElementGuid>
+      <webElementGuid>01fda491-3d40-4299-bb76-31a16281ae13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>data-id</name>
       <type>Main</type>
       <value>wIiASgAkk7g</value>
-      <webElementGuid>70e02aeb-7724-4c3e-832f-5efe19785c4f</webElementGuid>
+      <webElementGuid>65e70b4e-5df8-4d3b-90a0-bcc763dd2c01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>data-title</name>
       <type>Main</type>
       <value>Play Trailer</value>
-      <webElementGuid>4764b38c-8bb8-4631-bb38-ad1b4dfce331</webElementGuid>
+      <webElementGuid>12372418-09f9-4fcb-9fab-417b760748d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Play Trailer</value>
-      <webElementGuid>fadb804f-e2e2-4303-b285-80ea71654245</webElementGuid>
+      <webElementGuid>8e872331-9d85-4064-bee4-97480e6504d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-38dcd7134cdbad8514a63543bb661ce7</value>
-      <webElementGuid>9ea6ba40-debb-4f37-8146-10cd9ec9ba32</webElementGuid>
+      <webElementGuid>db272d34-7912-4d2e-81ae-8983c4b2e652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@data-title = 'Play Trailer']</value>
-      <webElementGuid>95396694-6e5a-4884-8299-bbb881ddc191</webElementGuid>
+      <webElementGuid>c9f67758-f63b-4d90-a815-e784aae20fa5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@data-title = 'Play Trailer']</value>
-      <webElementGuid>1c7ec5d5-7d95-469b-977a-d67bdf5f9d30</webElementGuid>
+      <webElementGuid>c6ab2004-04e2-431f-8195-d072e259cbac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = ' Play Trailer' or . = ' Play Trailer')]</value>
-      <webElementGuid>b48f0a5f-fc7d-4386-bce7-c38ddbf530aa</webElementGuid>
+      <webElementGuid>63d508d9-2011-44f8-8c16-5f92a81cc60b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
