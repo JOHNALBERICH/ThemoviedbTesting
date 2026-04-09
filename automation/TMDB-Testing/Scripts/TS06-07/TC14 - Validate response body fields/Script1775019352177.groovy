@@ -18,3 +18,7 @@ WS.verifyElementPropertyValue(response, 'title', 'Fight Club')
 
 // Fields not empty
 assert WS.getElementPropertyValue(response, 'overview').length() > 0
+
+import groovy.json.JsonOutput
+def jsonPretty = JsonOutput.prettyPrint(response.getResponseBodyContent())
+println(jsonPretty)

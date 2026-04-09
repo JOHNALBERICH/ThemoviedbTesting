@@ -11,3 +11,6 @@ response = WS.sendRequest(findTestObject('Movie/GetMovieById', [
 ]))
 
 WS.verifyResponseStatusCode(response, 401)
+import groovy.json.JsonOutput
+def jsonPretty = JsonOutput.prettyPrint(response.getResponseBodyContent())
+println(jsonPretty)

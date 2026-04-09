@@ -13,3 +13,7 @@ response = WS.sendRequest(findTestObject('Movie/SearchMovie', [
 
 WS.verifyResponseStatusCode(response, 200)
 WS.verifyElementPropertyValue(response, 'results[0].title', 'The Avengers')
+
+import groovy.json.JsonOutput
+def jsonPretty = JsonOutput.prettyPrint(response.getResponseBodyContent())
+println(jsonPretty)

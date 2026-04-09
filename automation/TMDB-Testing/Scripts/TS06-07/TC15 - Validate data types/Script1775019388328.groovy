@@ -48,3 +48,6 @@ assert body.belongs_to_collection == null || (body.belongs_to_collection instanc
 assert body.homepage == null || body.homepage instanceof String
 assert body.tagline == null || body.tagline instanceof String
 
+import groovy.json.JsonOutput
+def jsonPretty = JsonOutput.prettyPrint(response.getResponseBodyContent())
+println(jsonPretty)

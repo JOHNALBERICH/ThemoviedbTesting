@@ -11,3 +11,7 @@ response = WS.sendRequest(findTestObject('Movie/GetPopularMovie', [
 
 WS.verifyResponseStatusCode(response, 200)
 WS.verifyElementPropertyValue(response, 'results.size()', 20)  // default page size
+
+import groovy.json.JsonOutput
+def jsonPretty = JsonOutput.prettyPrint(response.getResponseBodyContent())
+println(jsonPretty)

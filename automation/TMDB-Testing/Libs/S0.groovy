@@ -18,9 +18,9 @@ Map<String, String> suiteProperties = new HashMap<String, String>();
 
 suiteProperties.put('rerunTestFailImmediately', 'true')
 suiteProperties.put('retryCount', '3')
-suiteProperties.put('name', 'TS01 - Verify search functionality')
+suiteProperties.put('name', 'TS06-07 - API')
 suiteProperties.put('description', '')
-suiteProperties.put('id', 'Test Suites/TS01 - Verify search functionality')
+suiteProperties.put('id', 'Test Suites/TS06-07 - API')
  
 
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.webui.contribution.WebUiDriverCleaner())
@@ -31,10 +31,10 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260330_212103\\TS01 - Verify search functionality\\20260330_212103\\execution.properties")
+RunConfiguration.setExecutionSettingFile("D:\\Users\\Admin\\Desktop\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260409_204122\\TS06-07 - API\\20260409_204122\\execution.properties")
 
 TestCaseMain.beforeStart()
 
 new ExecutionMain().init();
 
-TestCaseMain.startTestSuite('Test Suites/TS01 - Verify search functionality', suiteProperties, new File("E:\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260330_212103\\TS01 - Verify search functionality\\20260330_212103\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/TS06-07 - API', suiteProperties, new File("D:\\Users\\Admin\\Desktop\\ThemoviedbTesting\\automation\\TMDB-Testing\\Reports\\20260409_204122\\TS06-07 - API\\20260409_204122\\testCaseBinding"))
